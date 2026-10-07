@@ -2,6 +2,8 @@
 
 Authorized recovery of the public frontend deployed at https://www.lassie.ai, captured on October 7, 2026.
 
+Live recovery: https://lassie.ksqsebastian.workers.dev.
+
 The runtime uses the site's deployed Next.js/Turbopack client bundles, rendered page documents, original CSS, fonts, images, animations, and video bytes. It does not recreate the design from screenshots.
 
 ## Run
@@ -26,8 +28,8 @@ Deployment targets the `lassie` Cloudflare Worker. `npm run deploy` uses your lo
 
 - `recovery/pages/`: original server-rendered documents for twelve public routes.
 - `public/`: unmodified downloaded code and assets.
-- `recovery/readable-chunks/`: all 48 client chunks processed by Wakaru.
-- `recovery/modules/`: 600 separately extracted Turbopack module factories.
+- `recovery/readable-chunks/`: all 67 client chunks processed by Wakaru.
+- `recovery/modules/`: 669 separately extracted Turbopack module factories.
 - `recovery/module-index.json`: module IDs, source chunks, and original source offsets.
 - `recovery/asset-manifest.json`: original URLs, local files, sizes, and content types.
 - `scripts/build.mjs`: reproducible packaging and explicit deployment adaptations.

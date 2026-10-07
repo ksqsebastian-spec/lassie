@@ -52,6 +52,19 @@ These are region-level results, not a claim that every animated frame across the
 4. [P2] Captured marketing scripts sent telemetry to the source accounts. Disabled tracker components in packaged output and routed the source GTM bootstrap to a local no-op script; original captured files remain preserved. Subsequent checks found no remote requests.
 5. [P3] Four source device-icon URLs return 404. The packaged archive serves the original source favicon at those icon aliases. No visible page artwork was substituted.
 
+6. [P1] Live Cloudflare asset bindings returned complete chunks despite requested byte ranges. Added explicit stream slicing, tested both range-aware and full-file bindings, and verified two live cross-chunk requests returned exactly 64 expected original bytes. Evidence: `verification/live-range-verification.json`.
+
+7. [P1] A navigation chunk loaded after initial rendering. Recovered the complete referenced lazy-import graph (19 additional chunks), bringing the archive to 67 chunks and 669 factories. The final live player loaded, sought to 80 seconds with readyState 4, and closed to `/stories` without errors; see `verification/live-story-verification.json`.
+
+## Live publication
+
+- URL: https://lassie.ksqsebastian.workers.dev
+- Worker deployment ID: `8e0583ef169d458abddba407b1c2242e`.
+- `verification/live-verification.json`: twelve routes at desktop/mobile sizes (24 checks), no runtime exceptions, failed requests, remote asset/telemetry requests, or horizontal overflow. Menu, seven FAQ items, and reviews interaction passed.
+- `verification/live-range-verification.json`: byte-identical 64-byte requests spanning the 20 MiB storage boundary for both full story videos.
+- `verification/live-story-verification.json`: full playback, seeking to 80 seconds, and closing back to the carousel passed without runtime errors.
+- GitHub repository: https://github.com/ksqsebastian-spec/lassie.
+
 ## Remaining boundaries
 
 - Original TypeScript, erased identifier names/comments, unpublished source maps, private backend code, and original build configuration are not recoverable from these public artifacts. UnmapJS found zero exposed maps across 38 discovered chunks.
@@ -67,4 +80,4 @@ These are region-level results, not a claim that every animated frame across the
 - [x] Verify menu, FAQs, reviews, stories, media byte ranges, and runtime errors.
 - [x] Fix all identified P0/P1/P2 issues.
 - [x] Document source-recovery and backend boundaries.
-- [ ] Complete and verify Cloudflare publication; live verification is recorded separately after deployment.
+- [x] Complete and verify Cloudflare publication.

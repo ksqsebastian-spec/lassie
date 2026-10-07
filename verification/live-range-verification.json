@@ -1,0 +1,18 @@
+[
+  {
+    "pathname": "/__origin/storage.googleapis.com/lassie-public/assets/media/website/stories/dr-kwon/dr-kwon-741779dc-c564-4ad4-9754-c78a3b9ae0ac.webm",
+    "mode": "live",
+    "status": 206,
+    "bytes": 64,
+    "matches": true,
+    "contentRange": "bytes 20971488-20971551/69282875"
+  },
+  {
+    "pathname": "/__origin/storage.googleapis.com/lassie-public/assets/media/website/stories/dr-webb/dr-webb-22cca090-7dbc-4656-81af-fa42c154851c.webm",
+    "mode": "live",
+    "status": 206,
+    "bytes": 64,
+    "matches": true,
+    "contentRange": "bytes 20971488-20971551/60115816"
+  }
+]

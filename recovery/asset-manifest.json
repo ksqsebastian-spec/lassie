@@ -708,5 +708,100 @@
     "path": "/mstile@270x270.png",
     "bytes": 6803,
     "contentType": "image/png"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0-hmsrw8do5bn.js": {
+    "path": "/_next/static/immutable/chunks/0-hmsrw8do5bn.js",
+    "bytes": 25961,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0irg_50lcvv3i.js": {
+    "path": "/_next/static/immutable/chunks/0irg_50lcvv3i.js",
+    "bytes": 13561,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0zandjfngj7vz.js": {
+    "path": "/_next/static/immutable/chunks/0zandjfngj7vz.js",
+    "bytes": 1167,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0zzhxfvrp0q_a.js": {
+    "path": "/_next/static/immutable/chunks/0zzhxfvrp0q_a.js",
+    "bytes": 36414,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/144p5exbgh2-z.js": {
+    "path": "/_next/static/immutable/chunks/144p5exbgh2-z.js",
+    "bytes": 7250,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1eis2ceg2m1g6.js": {
+    "path": "/_next/static/immutable/chunks/1eis2ceg2m1g6.js",
+    "bytes": 1493,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1h5r75mxue8_e.js": {
+    "path": "/_next/static/immutable/chunks/1h5r75mxue8_e.js",
+    "bytes": 1369,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1j1mfar7e2o5o.js": {
+    "path": "/_next/static/immutable/chunks/1j1mfar7e2o5o.js",
+    "bytes": 1815,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1ni0iorr83hha.js": {
+    "path": "/_next/static/immutable/chunks/1ni0iorr83hha.js",
+    "bytes": 54764,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1wr1jfu0wr9nb.js": {
+    "path": "/_next/static/immutable/chunks/1wr1jfu0wr9nb.js",
+    "bytes": 42329,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2om2odic7_48m.js": {
+    "path": "/_next/static/immutable/chunks/2om2odic7_48m.js",
+    "bytes": 6963,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2r0r-eccl0pw6.js": {
+    "path": "/_next/static/immutable/chunks/2r0r-eccl0pw6.js",
+    "bytes": 833,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2rjdqes5y50u4.js": {
+    "path": "/_next/static/immutable/chunks/2rjdqes5y50u4.js",
+    "bytes": 1377,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2w-s9jrm49vzr.js": {
+    "path": "/_next/static/immutable/chunks/2w-s9jrm49vzr.js",
+    "bytes": 25084,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/31dv5i5md1mir.js": {
+    "path": "/_next/static/immutable/chunks/31dv5i5md1mir.js",
+    "bytes": 1803,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/3k3v8948wyx8a.js": {
+    "path": "/_next/static/immutable/chunks/3k3v8948wyx8a.js",
+    "bytes": 9613,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/3s909bdp1kzbo.js": {
+    "path": "/_next/static/immutable/chunks/3s909bdp1kzbo.js",
+    "bytes": 336321,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/3u0r4kw-39xcf.js": {
+    "path": "/_next/static/immutable/chunks/3u0r4kw-39xcf.js",
+    "bytes": 486,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/3_hg6l5tk7mvs.js": {
+    "path": "/_next/static/immutable/chunks/3_hg6l5tk7mvs.js",
+    "bytes": 12505,
+    "contentType": "application/javascript; charset=utf-8"
   }
 }

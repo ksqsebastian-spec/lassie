@@ -1,0 +1,57 @@
+// Recovered from 31dv5i5md1mir.js. Runtime module IDs: 501068.
+// This factory requires the original Turbopack runtime context.
+export default n => {
+  "use strict";
+
+  var e = n.i(239150),
+    t = n.i(223154);
+  n.s(["schemaFilter", 0, function (n, i) {
+    function r(r) {
+      var s = r.event.event;
+      if (n && s) {
+        var a = n[s];
+        if ((0, t.isPlanEventEnabled)(n, a)) {
+          var o = function (n, e) {
+            if (!n || !Object.keys(n)) return {};
+            var t,
+              i,
+              r = n.integrations ? Object.keys(n.integrations).filter(function (e) {
+                return !1 === n.integrations[e];
+              }) : [],
+              s = [];
+            return (null != (t = e.remotePlugins) ? t : []).forEach(function (n) {
+              r.forEach(function (e) {
+                (n.name.includes(e) || e.includes(n.name)) && s.push(n.name);
+              });
+            }), (null != (i = e.remotePlugins) ? i : []).reduce(function (n, e) {
+              return e.settings.subscriptions && s.includes(e.name) && e.settings.subscriptions.forEach(function (t) {
+                return n["".concat(e.name, " ").concat(t.partnerAction)] = !1;
+              }), n;
+            }, {});
+          }(a, i);
+          r.updateEvent("integrations", (0, e.__assign)((0, e.__assign)((0, e.__assign)({}, r.event.integrations), null == a ? void 0 : a.integrations), o));
+        } else r.updateEvent("integrations", (0, e.__assign)((0, e.__assign)({}, r.event.integrations), {
+          All: !1,
+          "Hightouch.io": !0
+        }));
+      }
+      return r;
+    }
+    return {
+      name: "Schema Filter",
+      version: "0.1.0",
+      isLoaded: function () {
+        return !0;
+      },
+      load: function () {
+        return Promise.resolve();
+      },
+      type: "before",
+      page: r,
+      alias: r,
+      track: r,
+      identify: r,
+      group: r
+    };
+  }]);
+};

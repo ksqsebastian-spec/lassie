@@ -23,6 +23,8 @@ async function streamLarge(request, env, url, asset) {
   let index = Math.floor(start / asset.chunkSize);
   let offset = start;
   let reader;
+  let skip = 0;
+  let remaining = 0;
   const body = new ReadableStream({
     async pull(controller) {
       try {
@@ -35,13 +37,31 @@ async function streamLarge(request, env, url, asset) {
           const response = await env.ASSETS.fetch(new Request(partUrl, { headers: { Range: `bytes=${localStart}-${localEnd}` } }));
           if (!response.ok) throw new Error(`Asset chunk ${index} unavailable`);
           reader = response.body.getReader();
+          // Workers Assets bindings may return the full file despite a Range header.
+          const expectedRange=`bytes ${localStart}-${localEnd}/${part.size}`;
+          skip=response.status===206 && response.headers.get('Content-Range')===expectedRange?0:localStart;
+          remaining=localEnd-localStart+1;
           offset = partStart + localEnd + 1;
           index++;
         }
         if (!reader) return controller.close();
-        const result = await reader.read();
-        if (result.done) { reader = undefined; if (offset > end) controller.close(); else return this.pull(controller); }
-        else controller.enqueue(result.value);
+        while(reader) {
+          const result = await reader.read();
+          if(result.done) {
+            if(remaining>0)throw new Error('Asset chunk ended before the requested range.');
+            reader=undefined;
+            if(offset>end)controller.close();else return this.pull(controller);
+            return;
+          }
+          if(skip>=result.value.length){skip-=result.value.length;continue;}
+          const data=result.value.subarray(skip,Math.min(result.value.length,skip+remaining));
+          skip=0;
+          remaining-=data.length;
+          if(remaining===0){await reader.cancel();reader=undefined;}
+          controller.enqueue(data);
+          if(!reader && offset>end)controller.close();
+          return;
+        }
       } catch (error) { controller.error(error); }
     },
     cancel(reason) { return reader?.cancel(reason); }

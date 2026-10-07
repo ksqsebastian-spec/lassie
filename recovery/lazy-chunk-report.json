@@ -1,0 +1,33 @@
+{
+  "recovered": [
+    "https://www.lassie.ai/_next/static/immutable/chunks/0-hmsrw8do5bn.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0irg_50lcvv3i.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0zandjfngj7vz.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0zzhxfvrp0q_a.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/144p5exbgh2-z.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1eis2ceg2m1g6.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1h5r75mxue8_e.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1j1mfar7e2o5o.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1ni0iorr83hha.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1wr1jfu0wr9nb.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2om2odic7_48m.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2r0r-eccl0pw6.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2rjdqes5y50u4.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2w-s9jrm49vzr.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/31dv5i5md1mir.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/3k3v8948wyx8a.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/3s909bdp1kzbo.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/3u0r4kw-39xcf.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/3_hg6l5tk7mvs.js"
+  ],
+  "non_chunk_references": [
+    {
+      "url": "https://www.lassie.ai/_next/static/immutable/chunks/analytics.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.lassie.ai/_next/static/immutable/chunks/basis_transcoder.js",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}
