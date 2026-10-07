@@ -1,0 +1,9 @@
+{
+  "tool": "UnmapJS 1.0.0",
+  "site": "https://www.lassie.ai",
+  "captured_date": "2026-10-07",
+  "discovered_chunks": 38,
+  "public_source_maps_found": 0,
+  "original_sources_extracted": 0,
+  "result": "No publicly exposed source maps found. Recover deployed client code rather than claiming original source extraction."
+}

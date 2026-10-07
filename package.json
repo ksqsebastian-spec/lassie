@@ -1,0 +1,26 @@
+{
+  "name": "lassie-recovered-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "node scripts/build.mjs",
+    "decompile": "node scripts/decompile.mjs",
+    "deploy": "npm run build && wrangler deploy",
+    "check": "node --check scripts/build.mjs && node --check worker/index.mjs && node --check scripts/dev.mjs"
+  },
+  "devDependencies": {
+    "@babel/generator": "^8.0.6",
+    "@babel/parser": "^8.0.6",
+    "@babel/traverse": "^8.0.6",
+    "@noble/hashes": "^2.4.0",
+    "cheerio": "^1.2.0",
+    "pixelmatch": "^8.0.0",
+    "playwright": "^1.63.0",
+    "sharp": "^0.35.5",
+    "wakaru": "^1.13.0",
+    "web-embedding": "^0.3.10",
+    "wrangler": "^4.148.0"
+  }
+}

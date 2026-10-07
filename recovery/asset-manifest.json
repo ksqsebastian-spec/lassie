@@ -1,0 +1,712 @@
+{
+  "https://cdn.lassie.ai/assets/media/website/careers/37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png": {
+    "path": "/assets/40d1b95554c01c62-37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png",
+    "bytes": 25263379,
+    "contentType": "image/png"
+  },
+  "https://cdn.lassie.ai/assets/media/website/careers/6133c7a1-6683-4912-9518-96e2dbb0bc12.png": {
+    "path": "/assets/ceae9daf0ddb8bb6-6133c7a1-6683-4912-9518-96e2dbb0bc12.png",
+    "bytes": 22001850,
+    "contentType": "image/png"
+  },
+  "https://cdn.lassie.ai/assets/media/website/community/1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg": {
+    "path": "/assets/16850d29dc63eaa6-1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg",
+    "bytes": 271632,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/community/2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg": {
+    "path": "/assets/16431433084c8982-2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg",
+    "bytes": 360630,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/community/3-47c96f44-efef-4113-ada5-e38e192010b0.jpg": {
+    "path": "/assets/d41f4357a9d95d65-3-47c96f44-efef-4113-ada5-e38e192010b0.jpg",
+    "bytes": 293030,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/community/4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg": {
+    "path": "/assets/243e2218bb72687f-4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg",
+    "bytes": 766925,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/community/5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg": {
+    "path": "/assets/ef27b92b9d216be5-5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg",
+    "bytes": 328678,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/community/6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg": {
+    "path": "/assets/152f5d07b408ed79-6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg",
+    "bytes": 253287,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/community/7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg": {
+    "path": "/assets/e4b8c7de40d8121c-7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg",
+    "bytes": 610567,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/community/8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg": {
+    "path": "/assets/f3c495e7a26902a1-8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg",
+    "bytes": 398809,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/demo/kwon-c843aeaa-1585-4df9-a67a-1183f154e555.png": {
+    "path": "/assets/11f45ec6b174278a-kwon-c843aeaa-1585-4df9-a67a-1183f154e555.png",
+    "bytes": 1660616,
+    "contentType": "image/png"
+  },
+  "https://cdn.lassie.ai/assets/media/website/hero/hero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg": {
+    "path": "/assets/aa3c0e0e2a3fb22a-hero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg",
+    "bytes": 334506,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/hero/hero.mp4": {
+    "path": "/assets/21a4962258a1426e-hero.mp4",
+    "bytes": 9056087,
+    "contentType": "video/mp4"
+  },
+  "https://cdn.lassie.ai/assets/media/website/infographic/bottom-left-bb2d87e3-276f-4e1d-8077-cdfc77ce079b.svg": {
+    "path": "/assets/df75a0486e815152-bottom-left-bb2d87e3-276f-4e1d-8077-cdfc77ce079b.svg",
+    "bytes": 51022,
+    "contentType": "image/svg+xml"
+  },
+  "https://cdn.lassie.ai/assets/media/website/infographic/bottom-right-6f11c3d8-d8de-4a85-81cd-ac22c29c59c8.svg": {
+    "path": "/assets/8d2448c3a7069f8b-bottom-right-6f11c3d8-d8de-4a85-81cd-ac22c29c59c8.svg",
+    "bytes": 36653,
+    "contentType": "image/svg+xml"
+  },
+  "https://cdn.lassie.ai/assets/media/website/infographic/bottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg": {
+    "path": "/assets/d31b83760eb8071b-bottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg",
+    "bytes": 576224,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/infographic/top-left-1-983872b1-f53d-40b6-93ef-4ef36423303a.svg": {
+    "path": "/assets/3d9d013fb597160c-top-left-1-983872b1-f53d-40b6-93ef-4ef36423303a.svg",
+    "bytes": 26576,
+    "contentType": "image/svg+xml"
+  },
+  "https://cdn.lassie.ai/assets/media/website/infographic/top-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg": {
+    "path": "/assets/956c2edd9e4c2cf4-top-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg",
+    "bytes": 1325182,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/infographic/top-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg": {
+    "path": "/assets/2c872ca33b080d22-top-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg",
+    "bytes": 569866,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/interview/interview-cta-13bf15dc-b00c-4851-adca-b977b95169e8.mp4": {
+    "path": "/assets/0ceb9982e9f74f4c-interview-cta-13bf15dc-b00c-4851-adca-b977b95169e8.mp4",
+    "bytes": 398006,
+    "contentType": "video/mp4"
+  },
+  "https://cdn.lassie.ai/assets/media/website/lassie-pg-1-e1832fd4-4bf4-4fbd-acbb-ec8ee35882a2.mp4": {
+    "path": "/assets/685c365eaae855c0-lassie-pg-1-e1832fd4-4bf4-4fbd-acbb-ec8ee35882a2.mp4",
+    "bytes": 938189,
+    "contentType": "video/mp4"
+  },
+  "https://cdn.lassie.ai/assets/media/website/lassie-pg-1.jpg": {
+    "path": "/assets/8856a76f88744c3a-lassie-pg-1.jpg",
+    "bytes": 213507,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/lassie-pg-2-4fba523a-2180-4814-bf6a-2c9000826b7c.mp4": {
+    "path": "/assets/7dddd08c1111feac-lassie-pg-2-4fba523a-2180-4814-bf6a-2c9000826b7c.mp4",
+    "bytes": 1379213,
+    "contentType": "video/mp4"
+  },
+  "https://cdn.lassie.ai/assets/media/website/lassie-pg-2.jpg": {
+    "path": "/assets/f734ec8b7e6178f1-lassie-pg-2.jpg",
+    "bytes": 114193,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/lassie-pg-3-01a69d26-1a50-4804-9dec-c1b1670faf17.mp4": {
+    "path": "/assets/b16a8eeda6aaed0e-lassie-pg-3-01a69d26-1a50-4804-9dec-c1b1670faf17.mp4",
+    "bytes": 521936,
+    "contentType": "video/mp4"
+  },
+  "https://cdn.lassie.ai/assets/media/website/lassie-pg-3.jpg": {
+    "path": "/assets/6e24e0642191c421-lassie-pg-3.jpg",
+    "bytes": 104448,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/static-features/efts-c992d751-82c8-471c-9507-e9e43818a48c.svg": {
+    "path": "/assets/c6f41e4907571574-efts-c992d751-82c8-471c-9507-e9e43818a48c.svg",
+    "bytes": 61641,
+    "contentType": "image/svg+xml"
+  },
+  "https://cdn.lassie.ai/assets/media/website/static-features/enrolls-1578d987-de61-4782-a576-e8044bdf7a8e.svg": {
+    "path": "/assets/b263076b54c413cc-enrolls-1578d987-de61-4782-a576-e8044bdf7a8e.svg",
+    "bytes": 89995,
+    "contentType": "image/svg+xml"
+  },
+  "https://cdn.lassie.ai/assets/media/website/static-features/payments-b0d4943f-0f19-49e2-a603-0307296dc7ea.svg": {
+    "path": "/assets/bc717bfdf940b1af-payments-b0d4943f-0f19-49e2-a603-0307296dc7ea.svg",
+    "bytes": 68643,
+    "contentType": "image/svg+xml"
+  },
+  "https://cdn.lassie.ai/assets/media/website/testimonials/haag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg": {
+    "path": "/assets/09ca7401105433eb-haag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg",
+    "bytes": 1827649,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/testimonials/haag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png": {
+    "path": "/assets/9ab2281d4b22aa31-haag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png",
+    "bytes": 1187134,
+    "contentType": "image/png"
+  },
+  "https://cdn.lassie.ai/assets/media/website/testimonials/kwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg": {
+    "path": "/assets/f5e369a9fc0b890a-kwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg",
+    "bytes": 1887436,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/testimonials/kwon-mobile-2-c233dd89-844a-4c51-ad90-263b6a4ba90d.png": {
+    "path": "/assets/5cc41e812a9491dd-kwon-mobile-2-c233dd89-844a-4c51-ad90-263b6a4ba90d.png",
+    "bytes": 850979,
+    "contentType": "image/png"
+  },
+  "https://cdn.lassie.ai/assets/media/website/testimonials/webb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg": {
+    "path": "/assets/4ae23bf7096f6e11-webb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg",
+    "bytes": 2186460,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.lassie.ai/assets/media/website/testimonials/webb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png": {
+    "path": "/assets/ca5d0aff911d2b7c-webb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png",
+    "bytes": 1128110,
+    "contentType": "image/png"
+  },
+  "https://storage.googleapis.com/lassie-public/assets/media/website/stories/coming-soon/TBD-placeholder_HD.webm": {
+    "path": "/assets/89c280e43b83f07f-TBD-placeholder_HD.webm",
+    "bytes": 5424902,
+    "contentType": "video/webm"
+  },
+  "https://storage.googleapis.com/lassie-public/assets/media/website/stories/dr-kwon/DrKwon-Cutdown.webm": {
+    "path": "/assets/3c41840ca93b4127-DrKwon-Cutdown.webm",
+    "bytes": 6713084,
+    "contentType": "video/webm"
+  },
+  "https://storage.googleapis.com/lassie-public/assets/media/website/stories/dr-kwon/dr-kwon-741779dc-c564-4ad4-9754-c78a3b9ae0ac.webm": {
+    "path": "/assets/bf42799ce0fada80-dr-kwon-741779dc-c564-4ad4-9754-c78a3b9ae0ac.webm",
+    "bytes": 69282875,
+    "contentType": "video/webm"
+  },
+  "https://storage.googleapis.com/lassie-public/assets/media/website/stories/dr-webb/dr-webb-22cca090-7dbc-4656-81af-fa42c154851c.webm": {
+    "path": "/assets/ea511206640269b8-dr-webb-22cca090-7dbc-4656-81af-fa42c154851c.webm",
+    "bytes": 60115816,
+    "contentType": "video/webm"
+  },
+  "https://storage.googleapis.com/lassie-public/assets/media/website/stories/dr-webb/dr-webb-preview-be896e7c-ae5f-409c-adc9-57778a556c68.webm": {
+    "path": "/assets/5ad2defa37e353e1-dr-webb-preview-be896e7c-ae5f-409c-adc9-57778a556c68.webm",
+    "bytes": 2759178,
+    "contentType": "video/webm"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0204cjc529000.js": {
+    "path": "/_next/static/immutable/chunks/0204cjc529000.js",
+    "bytes": 42006,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/03kbp77gqqpi1.js": {
+    "path": "/_next/static/immutable/chunks/03kbp77gqqpi1.js",
+    "bytes": 73803,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/04_6igdjz6qkc.js": {
+    "path": "/_next/static/immutable/chunks/04_6igdjz6qkc.js",
+    "bytes": 51738,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/09h2iqkq_v4qg.js": {
+    "path": "/_next/static/immutable/chunks/09h2iqkq_v4qg.js",
+    "bytes": 5827,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0_n1g1xluxdjh.js": {
+    "path": "/_next/static/immutable/chunks/0_n1g1xluxdjh.js",
+    "bytes": 463031,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0bp3cvixsnudo.js": {
+    "path": "/_next/static/immutable/chunks/0bp3cvixsnudo.js",
+    "bytes": 27267,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0c0hxoamwjsbw.js": {
+    "path": "/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+    "bytes": 112594,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0h-f0qe6lp2a3.js": {
+    "path": "/_next/static/immutable/chunks/0h-f0qe6lp2a3.js",
+    "bytes": 12687,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0ithuzvjicb25.js": {
+    "path": "/_next/static/immutable/chunks/0ithuzvjicb25.js",
+    "bytes": 1861,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0ku9uwqa4-hxg.js": {
+    "path": "/_next/static/immutable/chunks/0ku9uwqa4-hxg.js",
+    "bytes": 19143,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0p8d1y0ijq5zp.js": {
+    "path": "/_next/static/immutable/chunks/0p8d1y0ijq5zp.js",
+    "bytes": 43695,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0twmff5nhxzme.js": {
+    "path": "/_next/static/immutable/chunks/0twmff5nhxzme.js",
+    "bytes": 37838,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0v3mdyb27ol5u.js": {
+    "path": "/_next/static/immutable/chunks/0v3mdyb27ol5u.js",
+    "bytes": 5208,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1-o9j6tu6n4mn.js": {
+    "path": "/_next/static/immutable/chunks/1-o9j6tu6n4mn.js",
+    "bytes": 11015,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/19606j65e_ih_.js": {
+    "path": "/_next/static/immutable/chunks/19606j65e_ih_.js",
+    "bytes": 644406,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1_i2lbw8h_p-j.js": {
+    "path": "/_next/static/immutable/chunks/1_i2lbw8h_p-j.js",
+    "bytes": 27454,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1b3087i23rk3-.js": {
+    "path": "/_next/static/immutable/chunks/1b3087i23rk3-.js",
+    "bytes": 60577,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1d24nddwgfnli.js": {
+    "path": "/_next/static/immutable/chunks/1d24nddwgfnli.js",
+    "bytes": 20962,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1jev_0jsll-51.js": {
+    "path": "/_next/static/immutable/chunks/1jev_0jsll-51.js",
+    "bytes": 18297,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1pkwf9164lccl.js": {
+    "path": "/_next/static/immutable/chunks/1pkwf9164lccl.js",
+    "bytes": 32391,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/1pmzj02bmhgn8.js": {
+    "path": "/_next/static/immutable/chunks/1pmzj02bmhgn8.js",
+    "bytes": 56376,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2-im_01dp6df2.js": {
+    "path": "/_next/static/immutable/chunks/2-im_01dp6df2.js",
+    "bytes": 63663,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/25drgquolhhel.js": {
+    "path": "/_next/static/immutable/chunks/25drgquolhhel.js",
+    "bytes": 66548,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/299sj06-x_laa.js": {
+    "path": "/_next/static/immutable/chunks/299sj06-x_laa.js",
+    "bytes": 25406,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2ao0y6i6779fz.js": {
+    "path": "/_next/static/immutable/chunks/2ao0y6i6779fz.js",
+    "bytes": 25710,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2c93oa6mp7tcw.js": {
+    "path": "/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+    "bytes": 19528,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2i3o_1xbeljyy.js": {
+    "path": "/_next/static/immutable/chunks/2i3o_1xbeljyy.js",
+    "bytes": 14249,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2ob0yca9612en.js": {
+    "path": "/_next/static/immutable/chunks/2ob0yca9612en.js",
+    "bytes": 82115,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2oj8n2e_u0q_g.js": {
+    "path": "/_next/static/immutable/chunks/2oj8n2e_u0q_g.js",
+    "bytes": 28713,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2qscfphmwl08b.js": {
+    "path": "/_next/static/immutable/chunks/2qscfphmwl08b.js",
+    "bytes": 23249,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2te6sb7vp8v8p.js": {
+    "path": "/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+    "bytes": 5917,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2ub_4w67rvet3.js": {
+    "path": "/_next/static/immutable/chunks/2ub_4w67rvet3.js",
+    "bytes": 70516,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2ueomyi8mv6qw.css": {
+    "path": "/_next/static/immutable/chunks/2ueomyi8mv6qw.css",
+    "bytes": 147130,
+    "contentType": "text/css; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2uise9_bjpye1.js": {
+    "path": "/_next/static/immutable/chunks/2uise9_bjpye1.js",
+    "bytes": 30113,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2vr2e6hzq-v6j.js": {
+    "path": "/_next/static/immutable/chunks/2vr2e6hzq-v6j.js",
+    "bytes": 11988,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/2z01vlrd3-p-5.js": {
+    "path": "/_next/static/immutable/chunks/2z01vlrd3-p-5.js",
+    "bytes": 37494,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/31hcqwixokale.js": {
+    "path": "/_next/static/immutable/chunks/31hcqwixokale.js",
+    "bytes": 32792,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/32tj-0ij1qrnv.js": {
+    "path": "/_next/static/immutable/chunks/32tj-0ij1qrnv.js",
+    "bytes": 11586,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/33kijvutmv7fh.css": {
+    "path": "/_next/static/immutable/chunks/33kijvutmv7fh.css",
+    "bytes": 1646,
+    "contentType": "text/css; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/3_bikbd47vo95.js": {
+    "path": "/_next/static/immutable/chunks/3_bikbd47vo95.js",
+    "bytes": 28684,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/3a8k-ha0dc33c.js": {
+    "path": "/_next/static/immutable/chunks/3a8k-ha0dc33c.js",
+    "bytes": 331076,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/3b9vftuxw3t72.js": {
+    "path": "/_next/static/immutable/chunks/3b9vftuxw3t72.js",
+    "bytes": 154408,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/3g2v9_2yb35qx.js": {
+    "path": "/_next/static/immutable/chunks/3g2v9_2yb35qx.js",
+    "bytes": 40982,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/3kl09bcxzofvt.css": {
+    "path": "/_next/static/immutable/chunks/3kl09bcxzofvt.css",
+    "bytes": 222,
+    "contentType": "text/css; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/3ne8ssdg0x03z.js": {
+    "path": "/_next/static/immutable/chunks/3ne8ssdg0x03z.js",
+    "bytes": 14782,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/40ry7zl8mb456.js": {
+    "path": "/_next/static/immutable/chunks/40ry7zl8mb456.js",
+    "bytes": 1339,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/425qfz-du-7nr.js": {
+    "path": "/_next/static/immutable/chunks/425qfz-du-7nr.js",
+    "bytes": 43807,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/turbopack-3pv0dwcso9is0.js": {
+    "path": "/_next/static/immutable/chunks/turbopack-3pv0dwcso9is0.js",
+    "bytes": 11253,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2": {
+    "path": "/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+    "bytes": 64476,
+    "contentType": "font/woff2"
+  },
+  "https://www.lassie.ai/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2": {
+    "path": "/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+    "bytes": 60868,
+    "contentType": "font/woff2"
+  },
+  "https://www.lassie.ai/_next/static/immutable/media/andreessen.40d5yiuscwj2b.svg": {
+    "path": "/_next/static/immutable/media/andreessen.40d5yiuscwj2b.svg",
+    "bytes": 87103,
+    "contentType": "image/svg+xml"
+  },
+  "https://www.lassie.ai/_next/static/immutable/media/dmmono_regular-s.1bbkkji5yaliw.woff2": {
+    "path": "/_next/static/immutable/media/dmmono_regular-s.1bbkkji5yaliw.woff2",
+    "bytes": 20612,
+    "contentType": "font/woff2"
+  },
+  "https://www.lassie.ai/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2": {
+    "path": "/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+    "bytes": 88568,
+    "contentType": "font/woff2"
+  },
+  "https://www.lassie.ai/_next/static/immutable/media/homebrew.3ar9caes32epy.svg": {
+    "path": "/_next/static/immutable/media/homebrew.3ar9caes32epy.svg",
+    "bytes": 765,
+    "contentType": "image/svg+xml"
+  },
+  "https://www.lassie.ai/_next/static/immutable/media/sv-angel.36slc7lqy87jm.svg": {
+    "path": "/_next/static/immutable/media/sv-angel.36slc7lqy87jm.svg",
+    "bytes": 2814,
+    "contentType": "image/svg+xml"
+  },
+  "https://www.lassie.ai/favicon.svg": {
+    "path": "/favicon.svg",
+    "bytes": 1007,
+    "contentType": "image/svg+xml"
+  },
+  "https://www.lassie.ai/images/customers/grace-dental.svg": {
+    "path": "/images/customers/grace-dental.svg",
+    "bytes": 4624,
+    "contentType": "image/svg+xml"
+  },
+  "https://www.lassie.ai/images/customers/infinity-da.svg": {
+    "path": "/images/customers/infinity-da.svg",
+    "bytes": 9992,
+    "contentType": "image/svg+xml"
+  },
+  "https://www.lassie.ai/images/customers/love-to-smile.png": {
+    "path": "/images/customers/love-to-smile.png",
+    "bytes": 5708,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/images/customers/minalevidds.webp": {
+    "path": "/images/customers/minalevidds.webp",
+    "bytes": 9112,
+    "contentType": "image/webp"
+  },
+  "https://www.lassie.ai/images/customers/pediatric-dentistry-san-jose-logo.png": {
+    "path": "/images/customers/pediatric-dentistry-san-jose-logo.png",
+    "bytes": 17834,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/images/customers/sala-family-dentistry.webp": {
+    "path": "/images/customers/sala-family-dentistry.webp",
+    "bytes": 4866,
+    "contentType": "image/webp"
+  },
+  "https://www.lassie.ai/images/lassie_symbol.png": {
+    "path": "/images/lassie_symbol.png",
+    "bytes": 9428,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/lottie/spritesheet.png": {
+    "path": "/lottie/spritesheet.png",
+    "bytes": 81686,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/media/grace-dental.svg": {
+    "path": "/media/grace-dental.svg",
+    "bytes": 4624,
+    "contentType": "image/svg+xml"
+  },
+  "https://www.lassie.ai/media/infinity-da.svg": {
+    "path": "/media/infinity-da.svg",
+    "bytes": 9992,
+    "contentType": "image/svg+xml"
+  },
+  "https://www.lassie.ai/images/customers/dr-kwon.jpg": {
+    "path": "/images/customers/dr-kwon.jpg",
+    "bytes": 232335,
+    "contentType": "image/jpeg"
+  },
+  "https://www.lassie.ai/images/customers/dr-levi.jpg": {
+    "path": "/images/customers/dr-levi.jpg",
+    "bytes": 206570,
+    "contentType": "image/jpeg"
+  },
+  "https://www.lassie.ai/images/customers/dr-marcus.jpg": {
+    "path": "/images/customers/dr-marcus.jpg",
+    "bytes": 57475,
+    "contentType": "image/jpeg"
+  },
+  "https://www.lassie.ai/images/customers/dr-michelle-haghpanah-paid-ads.png": {
+    "path": "/images/customers/dr-michelle-haghpanah-paid-ads.png",
+    "bytes": 381016,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/images/customers/dr-pedersen.jpg": {
+    "path": "/images/customers/dr-pedersen.jpg",
+    "bytes": 21219,
+    "contentType": "image/jpeg"
+  },
+  "https://www.lassie.ai/images/customers/dr-sala.jpg": {
+    "path": "/images/customers/dr-sala.jpg",
+    "bytes": 190839,
+    "contentType": "image/jpeg"
+  },
+  "https://www.lassie.ai/media/kanning-dental.webp": {
+    "path": "/media/kanning-dental.webp",
+    "bytes": 11732,
+    "contentType": "image/webp"
+  },
+  "https://www.lassie.ai/media/love-to-smile.png": {
+    "path": "/media/love-to-smile.png",
+    "bytes": 7684,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/media/minalevidds.webp": {
+    "path": "/media/minalevidds.webp",
+    "bytes": 8878,
+    "contentType": "image/webp"
+  },
+  "https://www.lassie.ai/media/sala-family-dentistry.webp": {
+    "path": "/media/sala-family-dentistry.webp",
+    "bytes": 9774,
+    "contentType": "image/webp"
+  },
+  "https://www.lassie.ai/lottie/flower.lottie": {
+    "path": "/lottie/flower.lottie",
+    "bytes": 19572,
+    "contentType": "application/octet-stream"
+  },
+  "https://www.lassie.ai/lottie/spritesheet.json": {
+    "path": "/lottie/spritesheet.json",
+    "bytes": 32062,
+    "contentType": "application/json; charset=utf-8"
+  },
+  "https://cdn.jsdelivr.net/npm/@lottiefiles/dotlottie-web@0.74.0/dist/dotlottie-player.wasm": {
+    "path": "/vendor/dotlottie-player.wasm",
+    "bytes": 1753301,
+    "contentType": "application/wasm"
+  },
+  "https://cdn.sanity.io/images/zwxq7ddg/production/1d9c3627a83d95b79316eddec1e8d711df71eeaf-1920x1080.webp": {
+    "path": "/assets/51b48984c3339b9b-1d9c3627a83d95b79316eddec1e8d711df71eeaf-1920x1080.webp",
+    "bytes": 230761,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/zwxq7ddg/production/5909e8d5ff75ca9aedb924714be44125e2b50553-1200x630.jpg": {
+    "path": "/assets/7fe0dcee994a772b-5909e8d5ff75ca9aedb924714be44125e2b50553-1200x630.jpg",
+    "bytes": 89166,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/zwxq7ddg/production/67fa75da1aa9d01e7a5a1f52e1f092849a8fc0d7-1920x1080.webp": {
+    "path": "/assets/f3c82dc331326392-67fa75da1aa9d01e7a5a1f52e1f092849a8fc0d7-1920x1080.webp",
+    "bytes": 93463,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/zwxq7ddg/production/761bf1e319877705dcd805a1370d2a51231560c4-1200x630.jpg": {
+    "path": "/assets/53fba19c97c0d327-761bf1e319877705dcd805a1370d2a51231560c4-1200x630.jpg",
+    "bytes": 71748,
+    "contentType": "image/jpeg"
+  },
+  "https://cdn.sanity.io/images/zwxq7ddg/production/cd4c80c9d881252cfd66953ad8a35a45b68862ad-1280x720.webp": {
+    "path": "/assets/480e7152fb954b0a-cd4c80c9d881252cfd66953ad8a35a45b68862ad-1280x720.webp",
+    "bytes": 67394,
+    "contentType": "image/jpeg"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/0ri1non2h3sv5.js": {
+    "path": "/_next/static/immutable/chunks/0ri1non2h3sv5.js",
+    "bytes": 527,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/19zx1p8v1xybc.js": {
+    "path": "/_next/static/immutable/chunks/19zx1p8v1xybc.js",
+    "bytes": 205790,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/captions/c2de98615624d035190f3d649abf332b42a2cf87.vtt": {
+    "path": "/captions/c2de98615624d035190f3d649abf332b42a2cf87.vtt",
+    "bytes": 5364,
+    "contentType": "text/vtt"
+  },
+  "https://www.lassie.ai/captions/e5fdf8ffdd480e36625283b95f4d0d38d468e333.vtt": {
+    "path": "/captions/e5fdf8ffdd480e36625283b95f4d0d38d468e333.vtt",
+    "bytes": 4446,
+    "contentType": "text/vtt"
+  },
+  "https://www.lassie.ai/_next/static/immutable/media/dotted-map.13tk1s0srkrl1.svg": {
+    "path": "/_next/static/immutable/media/dotted-map.13tk1s0srkrl1.svg",
+    "bytes": 574997,
+    "contentType": "image/svg+xml"
+  },
+  "https://www.lassie.ai/_next/static/immutable/chunks/251qkjkc5rbe1.js": {
+    "path": "/_next/static/immutable/chunks/251qkjkc5rbe1.js",
+    "bytes": 50790,
+    "contentType": "application/javascript; charset=utf-8"
+  },
+  "https://www.lassie.ai/Icon@128x128.png": {
+    "path": "/Icon@128x128.png",
+    "bytes": 892,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/Icon@196x196.png": {
+    "path": "/Icon@196x196.png",
+    "bytes": 892,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/Icon@70x70.png": {
+    "path": "/Icon@70x70.png",
+    "bytes": 892,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/apple-touch-icon.png": {
+    "path": "/apple-touch-icon.png",
+    "bytes": 4339,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/apple-touch-icon@120x120.png": {
+    "path": "/apple-touch-icon@120x120.png",
+    "bytes": 2898,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/apple-touch-icon@152x152.png": {
+    "path": "/apple-touch-icon@152x152.png",
+    "bytes": 3728,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/apple-touch-icon@167x167.png": {
+    "path": "/apple-touch-icon@167x167.png",
+    "bytes": 4087,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/apple-touch-icon@180x180.png": {
+    "path": "/apple-touch-icon@180x180.png",
+    "bytes": 4339,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/favicon.png": {
+    "path": "/favicon.png",
+    "bytes": 892,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/favicon@96x96.png": {
+    "path": "/favicon@96x96.png",
+    "bytes": 2169,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/icon@48x48.png": {
+    "path": "/icon@48x48.png",
+    "bytes": 892,
+    "contentType": "image/png"
+  },
+  "https://www.lassie.ai/mstile@270x270.png": {
+    "path": "/mstile@270x270.png",
+    "bytes": 6803,
+    "contentType": "image/png"
+  }
+}

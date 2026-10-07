@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.wrangler/
+.playwright-cli/
+.venv/
+output/playwright/
+output/cloudflare/
+.env*
+*.log

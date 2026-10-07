@@ -1,0 +1,270 @@
+// Recovered from 2te6sb7vp8v8p.js. Runtime module IDs: 974981, 699472.
+// This factory requires the original Turbopack runtime context.
+export default e => {
+  "use strict";
+
+  var t = e.i(281889),
+    r = e.i(809393),
+    o = e.i(983871),
+    n = e.i(300778),
+    a = e.i(513679),
+    u = e.i(631923),
+    i = e.i(246880),
+    s = e.i(276522),
+    l = e.i(464068);
+  function d({
+    children: e,
+    className: o,
+    href: u,
+    active: i,
+    submenu: c,
+    isHovered: f = !1,
+    mode: h = "default",
+    onMouseEnter: p,
+    onMouseLeave: v,
+    onFocus: m,
+    onBlur: x,
+    ...g
+  }) {
+    let {
+        bgTheme: w
+      } = (0, s.useNav)(),
+      b = (0, n.usePathname)(),
+      [T, S] = (0, a.useState)(!1),
+      M = "/" === u && b === u || "/" !== u && b.startsWith(u.toString()) || i,
+      N = "index" === h ? M && !f : !f,
+      E = u.toString().startsWith("https"),
+      R = (0, r.default)("relative group hover:no-underline outline-hidden cursor-pointer", "h-[4.4rem]", o),
+      j = e => {
+        S(!0), p?.(e);
+      },
+      y = e => {
+        S(!1), v?.(e);
+      },
+      B = e => {
+        S(!0), m?.(e);
+      },
+      L = e => {
+        S(!1), x?.(e);
+      },
+      P = (0, t.jsxs)(t.Fragment, {
+        children: [(0, t.jsx)("span", {
+          className: (0, r.default)("nav-item-hover absolute z-0 top-0 left-0 w-full h-full rounded-[12px]", "transition-[background-color] duration-300 ease-out group-active:bg-surface-pressed", N && "index" !== h && "duration-300 bg-white", "group-focus-visible:border-2 group-focus-visible:border-blue-500 group-focus-visible:shadow-[0_0_0_3px_rgba(66,181,220,0.30)]")
+        }), (0, t.jsx)("div", {
+          className: (0, r.default)("nav-item w-full h-full z-1 px-[1.4rem] flex items-center relative", "text-nav leading-none", f && "index" !== h && "light" === w && "text-text-primary", f && "index" !== h && "dark" === w && "text-white", "index" === h && "dark" === w && !N && "text-white", "transition-colors duration-150 ease", "group-hover:text-text-primary group-focus-visible:text-text-primary group-active:text-white"),
+          children: e
+        }), T && c]
+      });
+    return c ? (0, t.jsx)("button", {
+      type: "button",
+      "aria-current": M ? "page" : void 0,
+      "aria-haspopup": "true",
+      "aria-expanded": T,
+      onMouseEnter: j,
+      onMouseLeave: y,
+      onFocus: B,
+      onBlur: L,
+      className: R,
+      children: P
+    }) : (0, t.jsx)(l.default, {
+      "aria-current": M ? "page" : void 0,
+      onMouseEnter: j,
+      onMouseLeave: y,
+      onFocus: B,
+      onBlur: L,
+      className: R,
+      href: u,
+      target: E ? "_blank" : void 0,
+      ...g,
+      children: P
+    });
+  }
+  e.s(["NavItem", 0, d], 699472);
+  let c = {
+      showHover({
+        isHovered: e,
+        item: t,
+        moveHoverTo: r
+      }) {
+        let o = t.getBoundingClientRect();
+        e ? r(t.offsetLeft, o.width) : r(t.offsetLeft, o.width, !1);
+      },
+      idleState({
+        hoverRef: e
+      }) {
+        o.default.killTweensOf(e.current), setTimeout(() => {
+          o.default.set(e.current, {
+            width: 0
+          });
+        });
+      }
+    },
+    f = {
+      idleState({
+        moveHoverTo: e,
+        navRef: t
+      }) {
+        let r = t.current?.querySelector('[aria-current="page"]');
+        if (r) {
+          let t = r.getBoundingClientRect();
+          e(r.offsetLeft, t.width);
+        }
+      },
+      showHover({
+        isHovered: e,
+        item: t,
+        moveHoverTo: r
+      }) {
+        let o = t.getBoundingClientRect();
+        if (e) r(t.offsetLeft, o.width);else {
+          let e = t.closest("nav")?.querySelector('[aria-current="page"]');
+          if (e) {
+            let t = e.getBoundingClientRect();
+            r(e.offsetLeft, t.width, !1);
+          }
+          r(t.offsetLeft, o.width);
+        }
+      }
+    },
+    h = ["/book-a-demo", "/company"];
+  e.s(["Nav", 0, function ({
+    className: e,
+    mode: l = "auto",
+    indexModePaths: p = h,
+    items: v,
+    logoHref: m = "/",
+    logoAriaLabel: x,
+    logoIcon: g,
+    logo: w,
+    ...b
+  }) {
+    let T = (0, a.useRef)(null),
+      S = (0, a.useRef)(null),
+      M = (0, a.useRef)(null),
+      N = (0, a.useRef)(null),
+      [E, R] = (0, a.useState)(!1),
+      {
+        collapsed: j,
+        setCollapsed: y
+      } = (0, s.useNav)(),
+      B = (0, a.useRef)(null),
+      L = (0, n.usePathname)();
+    function P() {
+      return "auto" !== l ? l : (p.includes(L), "default");
+    }
+    function k() {
+      "default" === P() ? c.idleState({
+        hoverRef: S
+      }) : f.idleState({
+        moveHoverTo: _,
+        navRef: T
+      });
+    }
+    function A() {
+      M.current ? H(M.current) : k();
+    }
+    (0, a.useEffect)(() => {
+      E || k();
+    }, [L]), (0, a.useEffect)(() => {
+      B.current && (j && !E ? o.default.to(B.current, {
+        width: 0,
+        duration: u.DURATION.medium,
+        ease: u.EASE,
+        onUpdate: A
+      }) : o.default.to(B.current, {
+        width: 53,
+        duration: u.DURATION.medium,
+        ease: u.EASE,
+        clearProps: "width",
+        onUpdate: A
+      }));
+    }, [j, E]);
+    let O = e => {
+        if ((0, i.hasTouchSupport)()) return;
+        M.current = e.currentTarget, N.current && (N.current.style.transitionDuration = "");
+        let t = e.currentTarget.querySelector(".nav-item-hover");
+        t.style.transitionDuration = "0s", N.current = t, H(e.currentTarget);
+      },
+      U = () => {
+        !(0, i.hasTouchSupport)() && M.current && (M.current = null);
+      },
+      F = () => {
+        (0, i.hasTouchSupport)() || R(!0);
+      },
+      C = () => {
+        (0, i.hasTouchSupport)() || (k(), R(!1));
+      },
+      H = e => {
+        "default" === P() ? c.showHover({
+          isHovered: E,
+          item: e,
+          moveHoverTo: _
+        }) : f.showHover({
+          isHovered: E,
+          item: e,
+          moveHoverTo: _
+        });
+      };
+    function _(e, t, r = !0) {
+      r ? o.default.to(S.current, {
+        width: t,
+        x: e,
+        duration: u.DURATION.fast,
+        ease: u.EASE_OUT
+      }) : o.default.set(S.current, {
+        x: e,
+        width: t
+      });
+    }
+    let D = P();
+    return (0, t.jsxs)("nav", {
+      "aria-label": "Main navigation",
+      ref: T,
+      className: (0, r.default)("flex w-max", "p-0", e),
+      onMouseOver: F,
+      onMouseEnter: F,
+      onFocus: () => {},
+      onBlur: () => {
+        E || C();
+      },
+      onMouseLeave: C,
+      ...b,
+      children: [(0, t.jsx)("div", {
+        className: (0, r.default)("nav-frame pointer-events-none absolute", "top-[-4px] left-[-4px] h-13 w-[calc(100%+8px)]", "rounded-ctas-wrapper border border-white/10 border-solid bg-stone-alpha-400 backdrop-blur-[13px]")
+      }), (0, t.jsx)("div", {
+        ref: S,
+        "aria-hidden": "true",
+        className: (0, r.default)("pointer-events-none absolute", "h-11 rounded-[12px] bg-white")
+      }), w && (0, t.jsxs)(d, {
+        href: m,
+        "aria-label": x,
+        isHovered: E,
+        mode: D,
+        onMouseEnter: O,
+        onMouseLeave: U,
+        onFocus: O,
+        onBlur: U,
+        children: [(0, t.jsx)("span", {
+          className: "ml-0",
+          children: g
+        }), (0, t.jsx)("span", {
+          ref: B,
+          className: (0, r.default)("inline-block w-[53px] overflow-hidden border-box"),
+          children: w
+        })]
+      }), v.map(e => (0, t.jsx)(d, {
+        active: e.active,
+        href: e.href,
+        "aria-label": e["aria-label"],
+        isHovered: E,
+        mode: D,
+        onMouseEnter: O,
+        onMouseLeave: U,
+        onFocus: O,
+        onBlur: U,
+        submenu: e.submenu,
+        children: e.content
+      }, e.href))]
+    });
+  }], 974981);
+};

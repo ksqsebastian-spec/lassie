@@ -1,0 +1,37 @@
+// Recovered from 3b9vftuxw3t72.js. Runtime module IDs: 577696.
+// This factory requires the original Turbopack runtime context.
+export default (e, t, r) => {
+  "use strict";
+
+  Object.defineProperty(r, "__esModule", {
+    value: !0
+  });
+  var n = {
+    setCacheBustingSearchParam: function () {
+      return o;
+    },
+    setCacheBustingSearchParamWithHash: function () {
+      return c;
+    }
+  };
+  for (var a in n) Object.defineProperty(r, a, {
+    enumerable: !0,
+    get: n[a]
+  });
+  let l = e.r(608990),
+    u = e.r(515188);
+  async function i(e) {
+    return "function" == typeof globalThis.crypto?.subtle?.digest ? (0, l.computeCacheBustingSearchParam)(e[u.NEXT_ROUTER_PREFETCH_HEADER], e[u.NEXT_ROUTER_SEGMENT_PREFETCH_HEADER], e[u.NEXT_ROUTER_STATE_TREE_HEADER], e[u.NEXT_URL]) : (0, l.computeLegacyCacheBustingSearchParam)(e[u.NEXT_ROUTER_PREFETCH_HEADER], e[u.NEXT_ROUTER_SEGMENT_PREFETCH_HEADER], e[u.NEXT_ROUTER_STATE_TREE_HEADER], e[u.NEXT_URL]);
+  }
+  let o = async (e, t) => {
+      c(e, await i(t));
+    },
+    c = (e, t) => {
+      let r = e.search,
+        n = (r.startsWith("?") ? r.slice(1) : r).split("&").filter(e => e && !e.startsWith(`${u.NEXT_RSC_UNION_QUERY}=`));
+      t.length > 0 ? n.push(`${u.NEXT_RSC_UNION_QUERY}=${t}`) : n.push(`${u.NEXT_RSC_UNION_QUERY}`), e.search = n.length ? `?${n.join("&")}` : "";
+    };
+  ("function" == typeof r.default || "object" == typeof r.default && null !== r.default) && void 0 === r.default.__esModule && (Object.defineProperty(r.default, "__esModule", {
+    value: !0
+  }), Object.assign(r.default, r), t.exports = r.default);
+};

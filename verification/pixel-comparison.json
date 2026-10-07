@@ -1,0 +1,41 @@
+[
+  {
+    "label": "company",
+    "width": 1440,
+    "region": {
+      "left": 0,
+      "top": 80,
+      "width": 1440,
+      "height": 600
+    },
+    "pixels": 0,
+    "total": 864000,
+    "differencePercent": 0
+  },
+  {
+    "label": "company",
+    "width": 390,
+    "region": {
+      "left": 0,
+      "top": 80,
+      "width": 390,
+      "height": 600
+    },
+    "pixels": 0,
+    "total": 234000,
+    "differencePercent": 0
+  },
+  {
+    "label": "get-started",
+    "width": 1440,
+    "region": {
+      "left": 180,
+      "top": 100,
+      "width": 730,
+      "height": 470
+    },
+    "pixels": 0,
+    "total": 343100,
+    "differencePercent": 0
+  }
+]

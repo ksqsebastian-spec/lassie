@@ -1,0 +1,60 @@
+{
+  "url": "https://www.lassie.ai",
+  "final_url": "https://www.lassie.ai",
+  "status": 200,
+  "title": "Lassie \u2014 AI That Runs the Doctor's Office",
+  "platform": "generic",
+  "frame_policy": {
+    "x_frame_options": "DENY",
+    "content_security_policy": "frame-ancestors 'self' *.lassie.ai; object-src 'none'; base-uri 'none';",
+    "frame_ancestors": null,
+    "embeddable": false,
+    "reason": "X-Frame-Options=DENY blocks exact iframe reuse."
+  },
+  "source_signals": [],
+  "site_profile": {
+    "primary_surface": "authenticated-app-surface",
+    "confidence": "high",
+    "platform": "generic",
+    "route_hints": {
+      "acquisition_profile": "session-aware-browser-capture",
+      "renderer_route": "runtime-first-bounded-rebuild",
+      "renderer_family": "app-shell-dashboard-next-app",
+      "critical_depths": [
+        "dom",
+        "computed-styles",
+        "interactions",
+        "runtime-html",
+        "network",
+        "canvas-surface",
+        "session-state"
+      ],
+      "evidence_limit": null,
+      "evidence_note": null
+    },
+    "signals": {
+      "frame_blocked": true,
+      "app_shell": true,
+      "auth_detected": true,
+      "app_gate_detected": false,
+      "app_deep_link_detected": false,
+      "app_promo_detected": false,
+      "app_login_gate_detected": false,
+      "app_gate_signals": [],
+      "canvas_detected": true,
+      "shadow_dom_detected": false,
+      "multi_frame": false,
+      "longform": true,
+      "runtime_frameworks": [
+        "nextjs"
+      ],
+      "exact_candidate_present": false,
+      "exact_candidate_kinds": []
+    },
+    "notes": [
+      "Authentication signals plus JS app-shell markers were detected."
+    ]
+  },
+  "candidate_count": 0,
+  "candidate_sample": []
+}

@@ -1,0 +1,2391 @@
+{
+  "records": [
+    {
+      "route": "/",
+      "name": "home",
+      "title": "Lassie \u2014 AI That Runs the Doctor's Office",
+      "links": [
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Home",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Play IconWatch their stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Get started",
+          "url": "/get-started "
+        },
+        {
+          "text": "Call us",
+          "url": "tel:+16504050509"
+        },
+        {
+          "text": "Careers",
+          "url": "https://jobs.ashbyhq.com/lassie"
+        },
+        {
+          "text": "Instagram",
+          "url": "https://www.instagram.com/lassieai"
+        },
+        {
+          "text": "X",
+          "url": "https://x.com/lassieai"
+        },
+        {
+          "text": "LinkedIn",
+          "url": "https://www.linkedin.com/company/lassie"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "/legal/privacy"
+        },
+        {
+          "text": "Terms of Service",
+          "url": "/legal/terms-of-service"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "text": "Menu",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "placeholder": "Your email",
+          "type": "email"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Get started",
+          "placeholder": null,
+          "type": "submit"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "What can Lassie help me with?",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "How do I get started?",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Do I need to change my existing systems?",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "What does my team still handle?",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "How long does onboarding take?",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "What does Lassie cost?",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Is Lassie secure?",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "placeholder": "Your email",
+          "type": "email"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Get started",
+          "placeholder": null,
+          "type": "submit"
+        }
+      ],
+      "assets": [
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": null,
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/images/lassie_symbol.png",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-9777D2K4WR",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fhero%2Fhero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fhero%2Fhero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fhero%2Fhero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fhero%2Fhero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fhero%2Fhero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fhero%2Fhero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fhero%2Fhero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fhero%2Fhero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fhero%2Fhero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "VIDEO",
+          "src": "https://cdn.lassie.ai/assets/media/website/hero/hero.mp4",
+          "srcset": null
+        },
+        {
+          "tag": "VIDEO",
+          "src": null,
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-3.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-3.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-3.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-3.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-3.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-3.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-3.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-3.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-3.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "VIDEO",
+          "src": null,
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-2.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-2.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-2.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-2.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-2.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-2.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-2.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-2.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-2.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "VIDEO",
+          "src": null,
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-1.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-1.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-1.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-1.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-1.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-1.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-1.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-1.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-1.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "https://cdn.lassie.ai/assets/media/website/infographic/top-left-1-983872b1-f53d-40b6-93ef-4ef36423303a.svg",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "https://cdn.lassie.ai/assets/media/website/infographic/bottom-left-bb2d87e3-276f-4e1d-8077-cdfc77ce079b.svg",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Fbottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Fbottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Fbottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Fbottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Fbottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Fbottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Fbottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Fbottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Fbottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "https://cdn.lassie.ai/assets/media/website/infographic/bottom-right-6f11c3d8-d8de-4a85-81cd-ac22c29c59c8.svg",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-mobile-2-c233dd89-844a-4c51-ad90-263b6a4ba90d.png&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-mobile-2-c233dd89-844a-4c51-ad90-263b6a4ba90d.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-mobile-2-c233dd89-844a-4c51-ad90-263b6a4ba90d.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-mobile-2-c233dd89-844a-4c51-ad90-263b6a4ba90d.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-mobile-2-c233dd89-844a-4c51-ad90-263b6a4ba90d.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-mobile-2-c233dd89-844a-4c51-ad90-263b6a4ba90d.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-mobile-2-c233dd89-844a-4c51-ad90-263b6a4ba90d.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-mobile-2-c233dd89-844a-4c51-ad90-263b6a4ba90d.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-mobile-2-c233dd89-844a-4c51-ad90-263b6a4ba90d.png&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "VIDEO",
+          "src": "https://cdn.lassie.ai/assets/media/website/interview/interview-cta-13bf15dc-b00c-4851-adca-b977b95169e8.mp4",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "https://cdn.lassie.ai/assets/media/website/static-features/enrolls-1578d987-de61-4782-a576-e8044bdf7a8e.svg",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "https://cdn.lassie.ai/assets/media/website/static-features/efts-c992d751-82c8-471c-9507-e9e43818a48c.svg",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "https://cdn.lassie.ai/assets/media/website/static-features/payments-b0d4943f-0f19-49e2-a603-0307296dc7ea.svg",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png&w=3840&q=75 3840w"
+        }
+      ],
+      "height": 16282
+    },
+    {
+      "route": "/stories",
+      "name": "stories",
+      "title": "Doctor stories \u2014 Lassie",
+      "links": [
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Home",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "text": "Logo Lassie",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Logo Lassie",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Recording03:00Dr. Eric Kwon",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Recording00:12:744Dr. Suffiyah Webb",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Recording00:00Small business of America",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Scroll to read more",
+          "placeholder": null,
+          "type": null
+        }
+      ],
+      "assets": [
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-9777D2K4WR",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/images/lassie_symbol.png",
+          "srcset": null
+        },
+        {
+          "tag": "VIDEO",
+          "src": null,
+          "srcset": null
+        },
+        {
+          "tag": "VIDEO",
+          "src": "https://storage.googleapis.com/lassie-public/assets/media/website/stories/dr-webb/dr-webb-preview-be896e7c-ae5f-409c-adc9-57778a556c68.webm",
+          "srcset": null
+        },
+        {
+          "tag": "VIDEO",
+          "src": "https://storage.googleapis.com/lassie-public/assets/media/website/stories/dr-kwon/DrKwon-Cutdown.webm",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "https://cdn.sanity.io/images/zwxq7ddg/production/67fa75da1aa9d01e7a5a1f52e1f092849a8fc0d7-1920x1080.webp",
+          "srcset": null
+        },
+        {
+          "tag": "VIDEO",
+          "src": "https://storage.googleapis.com/lassie-public/assets/media/website/stories/dr-webb/dr-webb-preview-be896e7c-ae5f-409c-adc9-57778a556c68.webm",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "https://cdn.sanity.io/images/zwxq7ddg/production/cd4c80c9d881252cfd66953ad8a35a45b68862ad-1280x720.webp",
+          "srcset": null
+        },
+        {
+          "tag": "VIDEO",
+          "src": "https://storage.googleapis.com/lassie-public/assets/media/website/stories/coming-soon/TBD-placeholder_HD.webm",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "https://cdn.sanity.io/images/zwxq7ddg/production/1d9c3627a83d95b79316eddec1e8d711df71eeaf-1920x1080.webp",
+          "srcset": null
+        }
+      ],
+      "height": 900
+    },
+    {
+      "route": "/company",
+      "name": "company",
+      "title": "Reimagining Doctors' Offices \u2014 Lassie",
+      "links": [
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Home",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "small businesses will soon run themselves",
+          "url": "https://a16z.com/announcement/investing-in-lassie"
+        },
+        {
+          "text": "Deployment StrategistSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/19493179-d4ea-476e-af9f-218684228879"
+        },
+        {
+          "text": "Design EngineerSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/3777d166-b8e5-49b7-a55d-fe4a6e536c9a"
+        },
+        {
+          "text": "Product DesignerSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/8a89fe3d-a1ae-42c0-8633-c22c0840cc37"
+        },
+        {
+          "text": "Software Engineer, GrowthSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/bfa76ce3-a6c0-4347-9181-63f5217be83a"
+        },
+        {
+          "text": "Software Engineer, Applied AISee job",
+          "url": "https://jobs.ashbyhq.com/lassie/c08396fa-69bb-4bf4-a59c-6323dd6b60bc"
+        },
+        {
+          "text": "Software Engineer, ProductSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/9b8258f2-996e-414d-b7c5-01109d227fb6"
+        },
+        {
+          "text": "Software Engineer, PlatformSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/f4269e1a-328b-4cec-8960-f398a68ac64f"
+        },
+        {
+          "text": "Software Engineer, SecuritySee job",
+          "url": "https://jobs.ashbyhq.com/lassie/5a16b995-9ce2-4c8b-885d-6adce3df25fb"
+        },
+        {
+          "text": "Head of FinanceSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/3b76ef54-2d0f-4c64-a16a-4d76c3899afd"
+        },
+        {
+          "text": "Head of MarketingSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/297fd72f-fe6d-40f1-8931-89085e66fa2f"
+        },
+        {
+          "text": "Product MarketerSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/b160df54-4446-47c6-887d-b087f92e8c3c"
+        },
+        {
+          "text": "Business OperationsSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/b5013359-447e-445d-b3af-bc304e89a654"
+        },
+        {
+          "text": "Customer OperationsSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/3c6b79a6-e95d-4d0e-831c-f4bcd31fa057"
+        },
+        {
+          "text": "Founding RecruiterSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/1a657ad6-a4b5-4c8b-b5d9-2e19576f0d64"
+        },
+        {
+          "text": "Account ExecutiveSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/bc368779-2c9b-47c2-9153-bb353cc94fdc"
+        },
+        {
+          "text": "GTM AssociateSee job",
+          "url": "https://jobs.ashbyhq.com/lassie/d7f41c77-908c-4206-852b-a99a17f9a867"
+        },
+        {
+          "text": "Get started",
+          "url": "/get-started "
+        },
+        {
+          "text": "Call us",
+          "url": "tel:+16504050509"
+        },
+        {
+          "text": "Careers",
+          "url": "https://jobs.ashbyhq.com/lassie"
+        },
+        {
+          "text": "Instagram",
+          "url": "https://www.instagram.com/lassieai"
+        },
+        {
+          "text": "X",
+          "url": "https://x.com/lassieai"
+        },
+        {
+          "text": "LinkedIn",
+          "url": "https://www.linkedin.com/company/lassie"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "/legal/privacy"
+        },
+        {
+          "text": "Terms of Service",
+          "url": "/legal/terms-of-service"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "text": "Menu",
+          "placeholder": null,
+          "type": "button"
+        }
+      ],
+      "assets": [
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/images/lassie_symbol.png",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-9777D2K4WR",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F6133c7a1-6683-4912-9518-96e2dbb0bc12.png&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F6133c7a1-6683-4912-9518-96e2dbb0bc12.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F6133c7a1-6683-4912-9518-96e2dbb0bc12.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F6133c7a1-6683-4912-9518-96e2dbb0bc12.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F6133c7a1-6683-4912-9518-96e2dbb0bc12.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F6133c7a1-6683-4912-9518-96e2dbb0bc12.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F6133c7a1-6683-4912-9518-96e2dbb0bc12.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F6133c7a1-6683-4912-9518-96e2dbb0bc12.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F6133c7a1-6683-4912-9518-96e2dbb0bc12.png&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/static/immutable/media/andreessen.40d5yiuscwj2b.svg",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/static/immutable/media/homebrew.3ar9caes32epy.svg",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/static/immutable/media/sv-angel.36slc7lqy87jm.svg",
+          "srcset": null
+        }
+      ],
+      "height": 8297
+    },
+    {
+      "route": "/book-a-demo",
+      "name": "book-a-demo",
+      "title": "See Lassie in Action \u2014 Book a Demo",
+      "links": [
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Home",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "text": "Menu",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "placeholder": "Your email",
+          "type": "email"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Get started",
+          "placeholder": null,
+          "type": "submit"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Get started",
+          "placeholder": null,
+          "type": "submit"
+        }
+      ],
+      "assets": [
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/images/lassie_symbol.png",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-9777D2K4WR",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/infinity-da.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/grace-dental.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/infinity-da.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/grace-dental.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fdemo%2Fkwon-c843aeaa-1585-4df9-a67a-1183f154e555.png&w=3840&q=75",
+          "srcset": "/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fdemo%2Fkwon-c843aeaa-1585-4df9-a67a-1183f154e555.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fdemo%2Fkwon-c843aeaa-1585-4df9-a67a-1183f154e555.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fdemo%2Fkwon-c843aeaa-1585-4df9-a67a-1183f154e555.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fdemo%2Fkwon-c843aeaa-1585-4df9-a67a-1183f154e555.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fdemo%2Fkwon-c843aeaa-1585-4df9-a67a-1183f154e555.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fdemo%2Fkwon-c843aeaa-1585-4df9-a67a-1183f154e555.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fdemo%2Fkwon-c843aeaa-1585-4df9-a67a-1183f154e555.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fdemo%2Fkwon-c843aeaa-1585-4df9-a67a-1183f154e555.png&w=3840&q=75 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/infinity-da.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/grace-dental.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/infinity-da.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/grace-dental.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        }
+      ],
+      "height": 900
+    },
+    {
+      "route": "/get-started",
+      "name": "get-started",
+      "title": "Lassie - AI that runs your insurance billing",
+      "links": [
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Home",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "/legal/privacy"
+        },
+        {
+          "text": "Terms of Service",
+          "url": "/legal/terms-of-service"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "text": "Menu",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "placeholder": "What's your email?",
+          "type": "email"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Get started",
+          "placeholder": null,
+          "type": "submit"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "placeholder": "What's your email?",
+          "type": "email"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Get started",
+          "placeholder": null,
+          "type": "submit"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "See all reviews",
+          "placeholder": null,
+          "type": "button"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "placeholder": "What's your email?",
+          "type": "email"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Get started",
+          "placeholder": null,
+          "type": "submit"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "placeholder": "What's your email?",
+          "type": "email"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Get started",
+          "placeholder": null,
+          "type": "submit"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "placeholder": "What's your email?",
+          "type": "email"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Book a demo",
+          "placeholder": null,
+          "type": "submit"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "placeholder": "What's your email?",
+          "type": "email"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Get started",
+          "placeholder": null,
+          "type": "submit"
+        }
+      ],
+      "assets": [
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/images/lassie_symbol.png",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-9777D2K4WR",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/infinity-da.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/grace-dental.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/infinity-da.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/grace-dental.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/infinity-da.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/grace-dental.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fminalevidds.webp&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Flove-to-smile.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/infinity-da.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/media/grace-dental.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1x, /_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2x"
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=32&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 32w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=48&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 48w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 64w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=96&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 96w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=128&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 128w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=256&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 256w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 384w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 640w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 750w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 828w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1080w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1200w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=1920&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1920w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=2048&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2048w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/images/customers/grace-dental.svg",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=32&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 32w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=48&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 48w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 64w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=96&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 96w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=128&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 128w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=256&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 256w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 384w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 640w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 750w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 828w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1080w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1200w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=1920&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1920w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=2048&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2048w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/images/customers/infinity-da.svg",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=32&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 32w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=48&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 48w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 64w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=96&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 96w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=128&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 128w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=256&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 256w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 384w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 640w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 750w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 828w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1080w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1200w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=1920&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1920w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=2048&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2048w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/images/customers/pediatric-dentistry-san-jose-logo.png",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=32&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 32w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=48&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 48w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 64w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=96&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 96w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=128&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 128w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=256&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 256w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 384w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 640w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 750w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 828w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1080w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1200w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=1920&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1920w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=2048&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2048w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/images/customers/minalevidds.webp",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=32&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 32w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=48&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 48w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 64w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=96&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 96w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=128&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 128w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=256&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 256w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 384w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 640w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 750w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 828w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1080w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1200w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=1920&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1920w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=2048&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2048w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/images/customers/sala-family-dentistry.webp",
+          "srcset": null
+        },
+        {
+          "tag": "IMG",
+          "src": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+          "srcset": "/_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=32&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 32w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=48&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 48w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 64w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=96&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 96w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=128&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 128w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=256&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 256w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 384w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 640w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=750&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 750w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=828&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 828w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=1080&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1080w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=1200&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1200w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=1920&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 1920w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=2048&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 2048w, /_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=3840&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr 3840w"
+        },
+        {
+          "tag": "IMG",
+          "src": "/images/customers/love-to-smile.png",
+          "srcset": null
+        }
+      ],
+      "height": 2981
+    },
+    {
+      "route": "/legal/privacy",
+      "name": "legal-privacy",
+      "title": "Lassie \u2013 AI that runs the doctor's office",
+      "links": [
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Home",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Business Associate Agreement",
+          "url": "/legal/business-associate-agreement"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "/legal/privacy"
+        },
+        {
+          "text": "Referral Program",
+          "url": "/legal/referral-program"
+        },
+        {
+          "text": "Services Agreement",
+          "url": "/legal/services-agreement"
+        },
+        {
+          "text": "Terms of Service",
+          "url": "/legal/terms-of-service"
+        },
+        {
+          "text": "Digital Advertising Alliance",
+          "url": "https://digitaladvertisingalliance.org/"
+        },
+        {
+          "text": "https://optout.aboutads.info/?c=2&lang=EN",
+          "url": "https://optout.aboutads.info/?c=2&lang=EN"
+        },
+        {
+          "text": "https://www.youradchoices.com/appchoices",
+          "url": "https://www.youradchoices.com/appchoices"
+        },
+        {
+          "text": "Network Advertising Initiative",
+          "url": "https://thenai.org/"
+        },
+        {
+          "text": "https://optout.networkadvertising.org/?c=1",
+          "url": "https://optout.networkadvertising.org/?c=1"
+        },
+        {
+          "text": "www.google.com/policies/privacy/partners/",
+          "url": "https://www.google.com/policies/privacy/partners/"
+        },
+        {
+          "text": "https://tools.google.com/dlpage/gaoptout/",
+          "url": "https://tools.google.com/dlpage/gaoptout/"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "text": "Menu",
+          "placeholder": null,
+          "type": "button"
+        }
+      ],
+      "assets": [
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/images/lassie_symbol.png",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-9777D2K4WR",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+          "srcset": null
+        }
+      ],
+      "height": 900
+    },
+    {
+      "route": "/legal/terms-of-service",
+      "name": "legal-terms-of-service",
+      "title": "Lassie \u2013 AI that runs the doctor's office",
+      "links": [
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Home",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Business Associate Agreement",
+          "url": "/legal/business-associate-agreement"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "/legal/privacy"
+        },
+        {
+          "text": "Referral Program",
+          "url": "/legal/referral-program"
+        },
+        {
+          "text": "Services Agreement",
+          "url": "/legal/services-agreement"
+        },
+        {
+          "text": "Terms of Service",
+          "url": "/legal/terms-of-service"
+        },
+        {
+          "text": "https://www.lassie.ai/",
+          "url": "https://www.lassie.ai/"
+        },
+        {
+          "text": "https://lassie.ai/terms/privacy",
+          "url": "https://lassie.ai/terms/privacy"
+        },
+        {
+          "text": "future changes to these Terms",
+          "url": "#will-these-terms-ever-change"
+        },
+        {
+          "text": "limitations of liability",
+          "url": "#what-else-do-i-need-to-know"
+        },
+        {
+          "text": "#Will these Terms ever change?",
+          "url": "#will-these-terms-ever-change"
+        },
+        {
+          "text": "#What about my privacy?",
+          "url": "#what-about-my-privacy"
+        },
+        {
+          "text": "click here",
+          "url": "https://lassie.ai/terms/privacy"
+        },
+        {
+          "text": "#What are the basics of using the Website?",
+          "url": "#what-are-the-basics-of-using-the-website"
+        },
+        {
+          "text": "#What about messaging?",
+          "url": "#what-about-messaging"
+        },
+        {
+          "text": "#Are there restrictions in how I can use the Website?",
+          "url": "#are-there-restrictions-in-how-i-can-use-the-website"
+        },
+        {
+          "text": "#What are my rights in the Website?",
+          "url": "#what-are-my-rights-in-the-website"
+        },
+        {
+          "text": "#Who is responsible for what I see and do on the Website?",
+          "url": "#who-is-responsible-for-what-i-see-and-do-on-the-website"
+        },
+        {
+          "text": "#Will Lassie ever change the Website?",
+          "url": "#will-lassie-ever-change-the-website"
+        },
+        {
+          "text": "#What if I violate these Terms?",
+          "url": "#what-if-i-violate-these-terms"
+        },
+        {
+          "text": "#What else do I need to know?",
+          "url": "#what-else-do-i-need-to-know"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "text": "Menu",
+          "placeholder": null,
+          "type": "button"
+        }
+      ],
+      "assets": [
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/images/lassie_symbol.png",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-9777D2K4WR",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+          "srcset": null
+        }
+      ],
+      "height": 900
+    },
+    {
+      "route": "/legal/business-associate-agreement",
+      "name": "legal-business-associate-agreement",
+      "title": "Lassie \u2013 AI that runs the doctor's office",
+      "links": [
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Home",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Business Associate Agreement",
+          "url": "/legal/business-associate-agreement"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "/legal/privacy"
+        },
+        {
+          "text": "Referral Program",
+          "url": "/legal/referral-program"
+        },
+        {
+          "text": "Services Agreement",
+          "url": "/legal/services-agreement"
+        },
+        {
+          "text": "Terms of Service",
+          "url": "/legal/terms-of-service"
+        },
+        {
+          "text": "https://lassie.ai/terms/services-agreement",
+          "url": "https://lassie.ai/terms/services-agreement"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "text": "Menu",
+          "placeholder": null,
+          "type": "button"
+        }
+      ],
+      "assets": [
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/images/lassie_symbol.png",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-9777D2K4WR",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+          "srcset": null
+        }
+      ],
+      "height": 900
+    },
+    {
+      "route": "/legal/referral-program",
+      "name": "legal-referral-program",
+      "title": "Lassie \u2013 AI that runs the doctor's office",
+      "links": [
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Home",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Business Associate Agreement",
+          "url": "/legal/business-associate-agreement"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "/legal/privacy"
+        },
+        {
+          "text": "Referral Program",
+          "url": "/legal/referral-program"
+        },
+        {
+          "text": "Services Agreement",
+          "url": "/legal/services-agreement"
+        },
+        {
+          "text": "Terms of Service",
+          "url": "/legal/terms-of-service"
+        },
+        {
+          "text": "#1. Referral Program Eligibility",
+          "url": "#1-referral-program-eligibility"
+        },
+        {
+          "text": "#2. Qualifying Referrals",
+          "url": "#2-qualifying-referrals"
+        },
+        {
+          "text": "#3. Referral Bonus Redemption",
+          "url": "#3-referral-bonus-redemption"
+        },
+        {
+          "text": "#4. Milestone Gifts (If Applicable)",
+          "url": "#4-milestone-gifts-if-applicable"
+        },
+        {
+          "text": "#5. Privacy",
+          "url": "#5-privacy"
+        },
+        {
+          "text": "#6. Intellectual Property",
+          "url": "#6-intellectual-property"
+        },
+        {
+          "text": "#7. Additional Terms and Restrictions",
+          "url": "#7-additional-terms-and-restrictions"
+        },
+        {
+          "text": "#8. Reservation of Rights",
+          "url": "#8-reservation-of-rights"
+        },
+        {
+          "text": "#9. Termination",
+          "url": "#9-termination"
+        },
+        {
+          "text": "#10. Entire Agreement",
+          "url": "#10-entire-agreement"
+        },
+        {
+          "text": "#11. Additional Defined Terms",
+          "url": "#11-additional-defined-terms"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "text": "Menu",
+          "placeholder": null,
+          "type": "button"
+        }
+      ],
+      "assets": [
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/images/lassie_symbol.png",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-9777D2K4WR",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+          "srcset": null
+        }
+      ],
+      "height": 900
+    },
+    {
+      "route": "/legal/services-agreement",
+      "name": "legal-services-agreement",
+      "title": "Lassie \u2013 AI that runs the doctor's office",
+      "links": [
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Logo LassieLogo Lassie Text",
+          "url": "/"
+        },
+        {
+          "text": "Home",
+          "url": "/"
+        },
+        {
+          "text": "Stories",
+          "url": "/stories"
+        },
+        {
+          "text": "Company",
+          "url": "/company"
+        },
+        {
+          "text": "Login",
+          "url": "https://app.lassie.ai/"
+        },
+        {
+          "text": "Demo",
+          "url": "/book-a-demo"
+        },
+        {
+          "text": "Business Associate Agreement",
+          "url": "/legal/business-associate-agreement"
+        },
+        {
+          "text": "Privacy Policy",
+          "url": "/legal/privacy"
+        },
+        {
+          "text": "Referral Program",
+          "url": "/legal/referral-program"
+        },
+        {
+          "text": "Services Agreement",
+          "url": "/legal/services-agreement"
+        },
+        {
+          "text": "Terms of Service",
+          "url": "/legal/terms-of-service"
+        },
+        {
+          "text": "https://lassie.ai/terms/baa",
+          "url": "https://lassie.ai/terms/baa"
+        },
+        {
+          "text": "https://stripe.com/us/legal",
+          "url": "https://stripe.com/us/legal"
+        },
+        {
+          "text": "https://lassie.ai/terms/baa",
+          "url": "https://lassie.ai/terms/baa"
+        },
+        {
+          "text": "10.1",
+          "url": "#bookmark=id.25b2l0r"
+        },
+        {
+          "text": "2.3",
+          "url": "#bookmark=id.3rdcrjn"
+        },
+        {
+          "text": "6",
+          "url": "#bookmark=id.qsh70q"
+        },
+        {
+          "text": "6",
+          "url": "#bookmark=id.qsh70q"
+        },
+        {
+          "text": "2.3",
+          "url": "#bookmark=id.3rdcrjn"
+        }
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "text": "Menu",
+          "placeholder": null,
+          "type": "button"
+        }
+      ],
+      "assets": [
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/images/lassie_symbol.png",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "https://www.googletagmanager.com/gtag/js?id=G-9777D2K4WR",
+          "srcset": null
+        },
+        {
+          "tag": "LINK",
+          "src": "/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+          "srcset": null
+        }
+      ],
+      "height": 900
+    },
+    {
+      "route": "/stories/a-margin-of-time",
+      "name": "stories-a-margin-of-time",
+      "title": "Doctor story \u2014 Lassie",
+      "links": [],
+      "controls": [],
+      "assets": []
+    },
+    {
+      "route": "/stories/closing-the-gap",
+      "name": "stories-closing-the-gap",
+      "title": "Doctor story \u2014 Lassie",
+      "links": [],
+      "controls": [],
+      "assets": []
+    }
+  ],
+  "urls": [
+    "https://www.lassie.ai/",
+    "https://www.lassie.ai/_next/static/immutable/media/abcmarist_book-s.p.11g1g2fz4rbe3.woff2",
+    "https://www.lassie.ai/_next/static/immutable/media/abcmarist_bookitalic-s.p.0fifb9drs_1du.woff2",
+    "https://www.lassie.ai/_next/static/immutable/media/dmsans_variable-s.p.113t9tsmf27pe.woff2",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fhero%2Fhero-cover-a27631dc-5a4b-4521-aaf0-eed19c9c2be6.jpg&w=1920&q=75",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2c93oa6mp7tcw.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1pkwf9164lccl.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/3b9vftuxw3t72.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0_n1g1xluxdjh.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/turbopack-3pv0dwcso9is0.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2i3o_1xbeljyy.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2ao0y6i6779fz.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/3_bikbd47vo95.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2uise9_bjpye1.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1_i2lbw8h_p-j.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2ob0yca9612en.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0twmff5nhxzme.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2qscfphmwl08b.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2ub_4w67rvet3.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/3ne8ssdg0x03z.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/40ry7zl8mb456.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0ku9uwqa4-hxg.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0p8d1y0ijq5zp.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/32tj-0ij1qrnv.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/3a8k-ha0dc33c.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1b3087i23rk3-.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2te6sb7vp8v8p.js",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-3.jpg&w=1920&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-2.jpg&w=1920&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Flassie-pg-1.jpg&w=1920&q=75",
+    "https://www.lassie.ai/_next/static/immutable/media/dmmono_regular-s.1bbkkji5yaliw.woff2",
+    "https://cdn.lassie.ai/assets/media/website/hero/hero.mp4",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2vr2e6hzq-v6j.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0bp3cvixsnudo.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2oj8n2e_u0q_g.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0204cjc529000.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/19606j65e_ih_.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/25drgquolhhel.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2z01vlrd3-p-5.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/2-im_01dp6df2.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/09h2iqkq_v4qg.js",
+    "https://cdn.lassie.ai/assets/media/website/interview/interview-cta-13bf15dc-b00c-4851-adca-b977b95169e8.mp4",
+    "https://www.lassie.ai/images/lassie_symbol.png",
+    "https://www.lassie.ai/monitoring?o=1215754&p=4511491701669888&r=us",
+    "https://www.lassie.ai/?_rsc=5CB68i4pnAekjehf",
+    "https://www.lassie.ai/stories?_rsc=5CB68i4pnAekjehf",
+    "https://www.lassie.ai/book-a-demo?_rsc=5CB68i4pnAekjehf",
+    "https://www.lassie.ai/lottie/flower.lottie",
+    "https://www.lassie.ai/company?_rsc=5CB68i4pnAekjehf",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0h-f0qe6lp2a3.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/03kbp77gqqpi1.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/04_6igdjz6qkc.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/299sj06-x_laa.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/425qfz-du-7nr.js",
+    "https://www.lassie.ai/?_rsc=zZ7aKgXCxxeEeXr0",
+    "https://www.lassie.ai/stories?_rsc=32HbE0QRUMUzbpLx",
+    "https://www.lassie.ai/?_rsc=ILKmfdrP1bj-IWTP",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0ithuzvjicb25.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/3g2v9_2yb35qx.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1pmzj02bmhgn8.js",
+    "https://www.lassie.ai/?_rsc=OcFWO2fzzKEZajLh",
+    "https://www.lassie.ai/stories?_rsc=YmfXV240CDg5IpRt",
+    "https://www.lassie.ai/company?_rsc=qZBWXpqV-TRG1-pp",
+    "https://www.lassie.ai/book-a-demo?_rsc=QJJjDkDVv3xBnWWt",
+    "https://www.lassie.ai/favicon.svg?v=2",
+    "https://www.lassie.ai/_next/static/immutable/chunks/31hcqwixokale.js",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1jev_0jsll-51.js",
+    "https://www.lassie.ai/lottie/spritesheet.json",
+    "https://www.lassie.ai/lottie/spritesheet.png",
+    "https://cdn.lassie.ai/assets/media/website/lassie-pg-3-01a69d26-1a50-4804-9dec-c1b1670faf17.mp4",
+    "https://cdn.lassie.ai/assets/media/website/infographic/bottom-right-6f11c3d8-d8de-4a85-81cd-ac22c29c59c8.svg",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-right-9c96bfd2-d943-4721-af2b-970d6f1e8056.jpg&w=1920&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Fbottom-right-dffd49f7-779e-491d-bbec-97ed5a920117.jpg&w=1920&q=75",
+    "https://cdn.lassie.ai/assets/media/website/infographic/top-left-1-983872b1-f53d-40b6-93ef-4ef36423303a.svg",
+    "https://cdn.lassie.ai/assets/media/website/infographic/bottom-left-bb2d87e3-276f-4e1d-8077-cdfc77ce079b.svg",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Finfographic%2Ftop-left-9a8c2dff-8249-4cbe-99d9-3c11d1e56105.jpg&w=1920&q=75",
+    "https://cdn.lassie.ai/assets/media/website/lassie-pg-2-4fba523a-2180-4814-bf6a-2c9000826b7c.mp4",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fkwon-desktop-644bff27-485f-44ac-b43b-edd396aa782d.jpg&w=1920&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-desktop-34f2068e-a92e-43de-bd91-6d768c533513.jpg&w=1920&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-desktop-7f3d8fae-418d-42c9-afca-fbfb83df3256.jpg&w=1920&q=75",
+    "https://cdn.lassie.ai/assets/media/website/lassie-pg-1-e1832fd4-4bf4-4fbd-acbb-ec8ee35882a2.mp4",
+    "https://cdn.lassie.ai/assets/media/website/static-features/enrolls-1578d987-de61-4782-a576-e8044bdf7a8e.svg",
+    "https://cdn.lassie.ai/assets/media/website/static-features/payments-b0d4943f-0f19-49e2-a603-0307296dc7ea.svg",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F37e8d1b6-9fb6-4ceb-b707-9eb2525b0be3.png&w=1920&q=75",
+    "https://www.lassie.ai/legal/privacy?_rsc=5CB68i4pnAekjehf",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=5CB68i4pnAekjehf",
+    "https://cdn.lassie.ai/assets/media/website/static-features/efts-c992d751-82c8-471c-9507-e9e43818a48c.svg",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png&w=640&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fwebb-mobile-2-ed71faf1-315f-41c2-a748-b925f537ff21.png&w=640&q=75",
+    "https://www.lassie.ai/legal/privacy?_rsc=PfiNAs2lZK_MGkg_",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=p1zG8Dme_ePdbzOJ",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1-o9j6tu6n4mn.js",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Ftestimonials%2Fhaag-mobile-2-f3790cbb-bb02-4dac-b667-9cc359f458db.png&w=1920&q=75",
+    "https://www.lassie.ai/stories",
+    "https://www.lassie.ai/company?_rsc=mSy1Oa15wKSrrO5r",
+    "https://www.lassie.ai/?_rsc=mSy1Oa15wKSrrO5r",
+    "https://www.lassie.ai/?_rsc=Vt8N4_If-xJAfINX",
+    "https://www.lassie.ai/company?_rsc=qh-tCYi88QUt2zyd",
+    "https://www.lassie.ai/company?_rsc=5NKu2ZNWAI1U9zGu",
+    "https://www.lassie.ai/company?_rsc=0Nczes--lo0Zx3hp",
+    "https://www.lassie.ai/company",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F1-df8b5d96-1e0c-4c25-a3ed-9c9468cd9ece.jpg&w=256&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F7-61b76151-5912-4e42-8eb4-5a779dff7f1d.jpg&w=256&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F8-efc7b051-fd81-4dd0-84a6-9b98f3f67e8c.jpg&w=256&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F4-cf1c47ea-d2a4-4a33-b93b-ae41639d2a57.jpg&w=256&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F3-47c96f44-efef-4113-ada5-e38e192010b0.jpg&w=256&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F6-5b195c2c-8b53-4359-b383-b73a7d401374.jpg&w=256&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F2-65b3edad-8268-41f5-a281-deba4f06e12f.jpg&w=256&q=75",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcommunity%2F5-812034c4-2b9e-4024-ac72-a3525f516ef1.jpg&w=256&q=75",
+    "https://www.lassie.ai/stories?_rsc=NK7s4rVN82YiTwyv",
+    "https://www.lassie.ai/?_rsc=NK7s4rVN82YiTwyv",
+    "https://www.lassie.ai/book-a-demo?_rsc=NK7s4rVN82YiTwyv",
+    "https://www.lassie.ai/company?_rsc=NK7s4rVN82YiTwyv",
+    "https://www.lassie.ai/?_rsc=Sr7r8J59OOdKBAhL",
+    "https://www.lassie.ai/stories?_rsc=vquu0CecFBBAko_v",
+    "https://www.lassie.ai/?_rsc=utq9j5gnBoCvrTQK",
+    "https://www.lassie.ai/?_rsc=LIRYuGHQ1rwvF4zK",
+    "https://www.lassie.ai/company?_rsc=Y_wseRvFm6CawD4y",
+    "https://www.lassie.ai/stories?_rsc=LCVZmoKNNEzmYg1d",
+    "https://www.lassie.ai/book-a-demo?_rsc=aDjTFOdJwj0fwaab",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fcareers%2F6133c7a1-6683-4912-9518-96e2dbb0bc12.png&w=1920&q=75",
+    "https://www.lassie.ai/_next/static/immutable/media/sv-angel.36slc7lqy87jm.svg",
+    "https://www.lassie.ai/_next/static/immutable/media/andreessen.40d5yiuscwj2b.svg",
+    "https://www.lassie.ai/_next/static/immutable/media/homebrew.3ar9caes32epy.svg",
+    "https://www.lassie.ai/legal/privacy?_rsc=NK7s4rVN82YiTwyv",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=NK7s4rVN82YiTwyv",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=Wfc0Pli6Yygs_5bB",
+    "https://www.lassie.ai/legal/privacy?_rsc=Vpk1tO2B9NY4BKmw",
+    "https://www.lassie.ai/book-a-demo",
+    "https://www.lassie.ai/_next/image?url=%2Fmedia%2Fsala-family-dentistry.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/_next/image?url=%2Fmedia%2Fminalevidds.webp&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/_next/image?url=%2Fmedia%2Fkanning-dental.webp&w=384&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/_next/image?url=https%3A%2F%2Fcdn.lassie.ai%2Fassets%2Fmedia%2Fwebsite%2Fdemo%2Fkwon-c843aeaa-1585-4df9-a67a-1183f154e555.png&w=1920&q=75",
+    "https://www.lassie.ai/media/infinity-da.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/_next/image?url=%2Fmedia%2Flove-to-smile.png&w=640&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/media/grace-dental.svg?dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/book-a-demo?_rsc=0YU9D6sr_9qgI6iz",
+    "https://www.lassie.ai/?_rsc=0YU9D6sr_9qgI6iz",
+    "https://www.lassie.ai/stories?_rsc=0YU9D6sr_9qgI6iz",
+    "https://www.lassie.ai/company?_rsc=0YU9D6sr_9qgI6iz",
+    "https://www.lassie.ai/?_rsc=o_s9hXFdrXBqFWEW",
+    "https://www.lassie.ai/?_rsc=ail3CYWYXsrzgzXM",
+    "https://www.lassie.ai/book-a-demo?_rsc=IM1mgdrTt1fw5PlA",
+    "https://www.lassie.ai/stories?_rsc=KUKinUu9lC71pn4_",
+    "https://www.lassie.ai/company?_rsc=wsphM-pj6ki19vlT",
+    "https://www.lassie.ai/book-a-demo?_rsc=25FL1fRytjn8Vu2r",
+    "https://www.lassie.ai/stories?_rsc=bYtgGqgjos_oeSvy",
+    "https://www.lassie.ai/get-started",
+    "https://www.lassie.ai/_next/static/immutable/chunks/1d24nddwgfnli.js",
+    "https://www.lassie.ai/images/customers/pediatric-dentistry-san-jose-logo.png",
+    "https://www.lassie.ai/images/customers/grace-dental.svg",
+    "https://www.lassie.ai/images/customers/minalevidds.webp",
+    "https://www.lassie.ai/images/customers/love-to-smile.png",
+    "https://www.lassie.ai/_next/image?url=%2Fimages%2Fcustomers%2Fdr-marcus.jpg&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/_next/image?url=%2Fimages%2Fcustomers%2Fdr-levi.jpg&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/_next/image?url=%2Fimages%2Fcustomers%2Fdr-michelle-haghpanah-paid-ads.png&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/images/customers/infinity-da.svg",
+    "https://www.lassie.ai/_next/image?url=%2Fimages%2Fcustomers%2Fdr-kwon.jpg&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/_next/image?url=%2Fimages%2Fcustomers%2Fdr-pedersen.jpg&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/_next/image?url=%2Fimages%2Fcustomers%2Fdr-sala.jpg&w=64&q=75&dpl=dpl_zU9mDsSw8txt53RDzzkCJytsjpdr",
+    "https://www.lassie.ai/book-a-demo?_rsc=blmrj7W6nqPrFHY9",
+    "https://www.lassie.ai/_next/static/immutable/chunks/0v3mdyb27ol5u.js",
+    "https://www.lassie.ai/images/customers/sala-family-dentistry.webp",
+    "https://www.lassie.ai/book-a-demo?_rsc=hgyhk2zbivScWok7",
+    "https://www.lassie.ai/book-a-demo?_rsc=9pexV_36bWteZ40k",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=blmrj7W6nqPrFHY9",
+    "https://www.lassie.ai/legal/privacy?_rsc=blmrj7W6nqPrFHY9",
+    "https://www.lassie.ai/legal/privacy?_rsc=RGtjiWcYFCzK_I-y",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=3K5I6F7boHlEj3h4",
+    "https://www.lassie.ai/?_rsc=blmrj7W6nqPrFHY9",
+    "https://www.lassie.ai/?_rsc=Pa_pRVQBNpJV1w6e",
+    "https://www.lassie.ai/?_rsc=NcXHI868_-o2oQu7",
+    "https://www.lassie.ai/legal/privacy",
+    "https://www.lassie.ai/company?_rsc=c5aHd5pTXDUY6dkd",
+    "https://www.lassie.ai/stories?_rsc=c5aHd5pTXDUY6dkd",
+    "https://www.lassie.ai/?_rsc=c5aHd5pTXDUY6dkd",
+    "https://www.lassie.ai/book-a-demo?_rsc=c5aHd5pTXDUY6dkd",
+    "https://www.lassie.ai/legal/privacy?_rsc=c5aHd5pTXDUY6dkd",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=c5aHd5pTXDUY6dkd",
+    "https://www.lassie.ai/legal/services-agreement?_rsc=c5aHd5pTXDUY6dkd",
+    "https://www.lassie.ai/legal/business-associate-agreement?_rsc=c5aHd5pTXDUY6dkd",
+    "https://www.lassie.ai/legal/referral-program?_rsc=c5aHd5pTXDUY6dkd",
+    "https://www.lassie.ai/?_rsc=y9RkhBFCDttm-lD4",
+    "https://www.lassie.ai/stories?_rsc=PrgQ7jrjuF5-mbq_",
+    "https://www.lassie.ai/?_rsc=69h2gNc0bUnSXgNS",
+    "https://www.lassie.ai/?_rsc=BZyfooUF0XXvnXol",
+    "https://www.lassie.ai/stories?_rsc=8bIj1oeQOa5T8xsu",
+    "https://www.lassie.ai/company?_rsc=3hPl0fv_1wh8Z3Ml",
+    "https://www.lassie.ai/book-a-demo?_rsc=bqBGaHNaBWW1WsPa",
+    "https://www.lassie.ai/legal/privacy?_rsc=vrTmASWxBnDMce5s",
+    "https://www.lassie.ai/legal/business-associate-agreement?_rsc=o8YuLJQOpciAn9P5",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=mxDw4trzXCTrVXBB",
+    "https://www.lassie.ai/legal/referral-program?_rsc=F_mcwrkLQ02_OyEa",
+    "https://www.lassie.ai/legal/services-agreement?_rsc=gejyHY0wV8C-z7by",
+    "https://www.lassie.ai/legal/terms-of-service",
+    "https://www.lassie.ai/stories?_rsc=KbxelWZ9ALbXNGNO",
+    "https://www.lassie.ai/company?_rsc=KbxelWZ9ALbXNGNO",
+    "https://www.lassie.ai/?_rsc=KbxelWZ9ALbXNGNO",
+    "https://www.lassie.ai/book-a-demo?_rsc=KbxelWZ9ALbXNGNO",
+    "https://www.lassie.ai/legal/business-associate-agreement?_rsc=KbxelWZ9ALbXNGNO",
+    "https://www.lassie.ai/legal/privacy?_rsc=KbxelWZ9ALbXNGNO",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=KbxelWZ9ALbXNGNO",
+    "https://www.lassie.ai/legal/services-agreement?_rsc=KbxelWZ9ALbXNGNO",
+    "https://www.lassie.ai/legal/referral-program?_rsc=KbxelWZ9ALbXNGNO",
+    "https://www.lassie.ai/?_rsc=PujX-pOrJpzOstRQ",
+    "https://www.lassie.ai/stories?_rsc=vBRmEZkOpMFkaY52",
+    "https://www.lassie.ai/?_rsc=blkyCZmIuP8iKTf1",
+    "https://www.lassie.ai/?_rsc=JlQDY4Pi8Vqs3UsD",
+    "https://www.lassie.ai/company?_rsc=77VC--_zym1Bddm6",
+    "https://www.lassie.ai/legal/business-associate-agreement?_rsc=bd0IcWtRXvmbygmz",
+    "https://www.lassie.ai/stories?_rsc=81tqpNrx7TJxQ89B",
+    "https://www.lassie.ai/book-a-demo?_rsc=-DfHzdF7pK235Iob",
+    "https://www.lassie.ai/legal/services-agreement?_rsc=ObNaEkba6uZ-IKD0",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=oUPnpH30BoXo6k3Y",
+    "https://www.lassie.ai/legal/privacy?_rsc=ZDLVTNvwLUsOWGhb",
+    "https://www.lassie.ai/legal/referral-program?_rsc=ua2neSK8MiJesOnN",
+    "https://www.lassie.ai/legal/business-associate-agreement",
+    "https://www.lassie.ai/book-a-demo?_rsc=CBoV8LFjvjb4LKPg",
+    "https://www.lassie.ai/?_rsc=CBoV8LFjvjb4LKPg",
+    "https://www.lassie.ai/stories?_rsc=CBoV8LFjvjb4LKPg",
+    "https://www.lassie.ai/company?_rsc=CBoV8LFjvjb4LKPg",
+    "https://www.lassie.ai/legal/business-associate-agreement?_rsc=CBoV8LFjvjb4LKPg",
+    "https://www.lassie.ai/legal/services-agreement?_rsc=CBoV8LFjvjb4LKPg",
+    "https://www.lassie.ai/legal/privacy?_rsc=CBoV8LFjvjb4LKPg",
+    "https://www.lassie.ai/legal/referral-program?_rsc=CBoV8LFjvjb4LKPg",
+    "https://www.lassie.ai/?_rsc=JOTt6NXUVCbhIyHq",
+    "https://www.lassie.ai/?_rsc=v8uogr_npRDygEQG",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=CBoV8LFjvjb4LKPg",
+    "https://www.lassie.ai/?_rsc=6rJ-LCzPxcee0CMt",
+    "https://www.lassie.ai/stories?_rsc=K1Y9Hp1oejgGdnSt",
+    "https://www.lassie.ai/book-a-demo?_rsc=Gycu917SlDwRb4mf",
+    "https://www.lassie.ai/stories?_rsc=rJG7KFPUrsE_K_ir",
+    "https://www.lassie.ai/company?_rsc=rswEo_ioc3DxcTic",
+    "https://www.lassie.ai/legal/business-associate-agreement?_rsc=Sq9UnuLus5D1gmgO",
+    "https://www.lassie.ai/legal/privacy?_rsc=4TQyUj0Gaeb7xLY_",
+    "https://www.lassie.ai/legal/services-agreement?_rsc=V7ebzYyvremrpmpx",
+    "https://www.lassie.ai/legal/referral-program?_rsc=ntkR63yvtBPE71DF",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=xY8sDne7Hitc8Bma",
+    "https://www.lassie.ai/legal/referral-program",
+    "https://www.lassie.ai/?_rsc=g-yYfnRPhvRl_3kX",
+    "https://www.lassie.ai/stories?_rsc=g-yYfnRPhvRl_3kX",
+    "https://www.lassie.ai/company?_rsc=g-yYfnRPhvRl_3kX",
+    "https://www.lassie.ai/book-a-demo?_rsc=g-yYfnRPhvRl_3kX",
+    "https://www.lassie.ai/legal/services-agreement?_rsc=g-yYfnRPhvRl_3kX",
+    "https://www.lassie.ai/legal/business-associate-agreement?_rsc=g-yYfnRPhvRl_3kX",
+    "https://www.lassie.ai/legal/privacy?_rsc=g-yYfnRPhvRl_3kX",
+    "https://www.lassie.ai/legal/referral-program?_rsc=g-yYfnRPhvRl_3kX",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=g-yYfnRPhvRl_3kX",
+    "https://www.lassie.ai/?_rsc=sTACxrLcXhJXCpv5",
+    "https://www.lassie.ai/?_rsc=yqZDfNf4uaYoGabe",
+    "https://www.lassie.ai/?_rsc=aubA12JhiW97J5Lt",
+    "https://www.lassie.ai/stories?_rsc=lOsegtl5T6HlWHwX",
+    "https://www.lassie.ai/book-a-demo?_rsc=EToFtr1LzKWTeAla",
+    "https://www.lassie.ai/stories?_rsc=wT_LPDFaC2VzEhU4",
+    "https://www.lassie.ai/company?_rsc=K4EcGa5EBK_iScl7",
+    "https://www.lassie.ai/legal/privacy?_rsc=MK4CAyuhwfDlZDKX",
+    "https://www.lassie.ai/legal/referral-program?_rsc=-KMj6vS3bwGCVT1u",
+    "https://www.lassie.ai/legal/business-associate-agreement?_rsc=iJYqbd2ugW0ck_5u",
+    "https://www.lassie.ai/legal/services-agreement?_rsc=yn72VerkWUkFf9eE",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=dTYnD1CFzjxWX3WW",
+    "https://www.lassie.ai/legal/services-agreement",
+    "https://www.lassie.ai/book-a-demo?_rsc=cFnx1wep9YDREWGf",
+    "https://www.lassie.ai/company?_rsc=cFnx1wep9YDREWGf",
+    "https://www.lassie.ai/?_rsc=cFnx1wep9YDREWGf",
+    "https://www.lassie.ai/legal/referral-program?_rsc=cFnx1wep9YDREWGf",
+    "https://www.lassie.ai/legal/privacy?_rsc=cFnx1wep9YDREWGf",
+    "https://www.lassie.ai/legal/business-associate-agreement?_rsc=cFnx1wep9YDREWGf",
+    "https://www.lassie.ai/stories?_rsc=cFnx1wep9YDREWGf",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=cFnx1wep9YDREWGf",
+    "https://www.lassie.ai/?_rsc=69gtXjKpNBY0dMBF",
+    "https://www.lassie.ai/legal/services-agreement?_rsc=cFnx1wep9YDREWGf",
+    "https://www.lassie.ai/?_rsc=Y8MFWg6cHKb8DT9F",
+    "https://www.lassie.ai/stories?_rsc=9DKShph66sxeTK3T",
+    "https://www.lassie.ai/stories?_rsc=stgG3KZ2_kykdTmP",
+    "https://www.lassie.ai/?_rsc=bFZaKGOg_4fzSeSB",
+    "https://www.lassie.ai/company?_rsc=rwonVzE9RfXUICpk",
+    "https://www.lassie.ai/legal/privacy?_rsc=LiU5rMB_BVjE41So",
+    "https://www.lassie.ai/legal/business-associate-agreement?_rsc=jTPpZDXi_zOXab1g",
+    "https://www.lassie.ai/book-a-demo?_rsc=RiOd6105pQ33hGd-",
+    "https://www.lassie.ai/legal/terms-of-service?_rsc=SzIXvug7oCVAcH0Z",
+    "https://www.lassie.ai/legal/services-agreement?_rsc=TFA36xG-nUFgifNg",
+    "https://www.lassie.ai/legal/referral-program?_rsc=c1VnheHr1oSWaL6p"
+  ]
+}

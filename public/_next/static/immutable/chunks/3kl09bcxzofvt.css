@@ -1,0 +1,1 @@
+:root{--scrolling-logo-gap:4rem}@keyframes infinite-scroll{0%{transform:translate(0)}to{transform:translateX(calc(-100% - var(--scrolling-logo-gap)))}}.animate-infinite-scroll{animation:20s linear infinite infinite-scroll}
